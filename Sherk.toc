@@ -1,0 +1,13 @@
+#  -- Required. Game version. 
+## Interface: 50400
+#  -- Name shown when viewing AddOn list.
+## Title: Sherk
+#  -- Version number (if there are multiple versions)
+## Version: 1.0
+# -- AddOn tooltip on loading screen. 
+## Notes: Simple GPS
+# -- Not required; author of 
+## Author: Sherk
+
+eCoordinates.lua
+eCoordinates.xml
