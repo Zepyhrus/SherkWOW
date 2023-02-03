@@ -1,7 +1,7 @@
 #  -- Required. Game version. 
 ## Interface: 50400
 #  -- Name shown when viewing AddOn list.
-## Title: Sherk
+## Title: SherkWOW
 #  -- Version number (if there are multiple versions)
 ## Version: 1.0
 # -- AddOn tooltip on loading screen. 
@@ -9,5 +9,5 @@
 # -- Not required; author of 
 ## Author: Sherk
 
-eCoordinates.lua
-eCoordinates.xml
+sherkWOW.lua
+sherkWOW.xml
