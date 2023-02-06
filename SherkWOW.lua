@@ -1,6 +1,15 @@
 local zone = nil
 local TimeSinceLastUpdate = 0
 
+SLASH_TEST = "/test"
+SlashCmdList["TEST"] = function(msg)
+   print("Hello World!")
+end 
+
+local btn = CreateFrame("Button", "myButton", UIParent, "SecureActionButtonTemplate")
+btn:SetAttribute("type", "action")
+btn:SetAttribute("action", 1)
+
 local function UpdatSherkWOW(self, elapsed)
   if zone ~= GetRealZoneText() then
 	  zone = GetRealZoneText()
@@ -14,7 +23,10 @@ local function UpdatSherkWOW(self, elapsed)
     local posX, posY = GetPlayerMapPosition("player");
     local x = math.floor(posX * 10000)/100
     local y = math.floor(posY * 10000)/100
-    SherkWOWFontString:SetText("|c98FB98ff("..x..", "..y..")")	
+    SherkWOWFontString:SetText("|c98FB98ff("..x..", "..y..")")
+
+  -- ConsoleExec("/cast Blood Boil");
+    -- print('Hello world!');
  	end	
 end
  
