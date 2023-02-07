@@ -27,7 +27,7 @@ local function UpdatSherkWOW(self, elapsed)
     local base, posBuff, negBuff = UnitAttackPower("player");
     local effective = math.floor((base + posBuff + negBuff));
     
-    SherkWOWFontString:SetText("|cffffffff[  "..effective.."  ]")
+    SherkWOWFontString:SetText("|cffffffff"..effective.."", 16)
 
     -- print("Attack power: "..effective.."...");
     -- D:\Installation\World of Warcraft 5.4.8\Interface\AddOns\SherkWOW\SherkWOW.lua
@@ -42,12 +42,15 @@ function SherkWOW_OnEvent(self, event, ...)
   -- 加载时创建窗口、
   if event == "ADDON_LOADED" and ... == "SherkWOW" then
     self:UnregisterEvent("ADDON_LOADED")		
-    SherkWOW:SetSize(100, 50)
-    SherkWOW:SetPoint("TOP", "Minimap", "BOTTOM", 5, -5)
+    SherkWOW:SetSize(200, 500)
+    SherkWOW:SetPoint("TOPLEFT", 0, 0)
     SherkWOW:SetScript("OnUpdate", UpdatSherkWOW)
 
-    local coordsFont =    SherkWOW:CreateFontString("SherkWOWFontString", "ARTWORK", "GameFontNormal")
-    coordsFont:SetPoint("CENTER", "SherkWOW", "CENTER", 0, 0)
+    local coordsFont = SherkWOW:CreateFontString("SherkWOWFontString", "ARTWORK", "GameFontNormal")
+    local Path, Size, Flags = coordsFont:GetFont()
+    coordsFont:SetFont(Path, 18, Flags)
+    coordsFont:SetPoint("TOPLEFT", 5, -5)
+    -- coordsFont:SetSize(100, 40)
     coordsFont:Show()
     SherkWOW:Show()		
   end
