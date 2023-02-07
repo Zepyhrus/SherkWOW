@@ -20,13 +20,17 @@ local function UpdatSherkWOW(self, elapsed)
  	
   if TimeSinceLastUpdate > .5 then	
     TimeSinceLastUpdate = 0
-    local posX, posY = GetPlayerMapPosition("player");
-    local x = math.floor(posX * 10000)/100
-    local y = math.floor(posY * 10000)/100
-    SherkWOWFontString:SetText("|c98FB98ff("..x..", "..y..")")
+    -- local posX, posY = GetPlayerMapPosition("player");
+    -- local x = math.floor(posX * 10000)/100
+    -- local y = math.floor(posY * 10000)/100
 
-  -- ConsoleExec("/cast Blood Boil");
-    -- print('Hello world!');
+    local base, posBuff, negBuff = UnitAttackPower("player");
+    local effective = math.floor((base + posBuff + negBuff) / 1000);
+    
+    SherkWOWFontString:SetText("[  "..effective.."  ]")
+
+    -- print("Attack power: "..effective.."...");
+    -- D:\Installation\World of Warcraft 5.4.8\Interface\AddOns\SherkWOW\SherkWOW.lua
  	end	
 end
  
