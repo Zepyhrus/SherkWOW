@@ -1,14 +1,14 @@
 local zone = nil
 local TimeSinceLastUpdate = 0
 
-SLASH_TEST = "/test"
-SlashCmdList["TEST"] = function(msg)
-   print("Hello World!")
-end 
+-- SLASH_TEST = "/test"
+-- SlashCmdList["TEST"] = function(msg)
+--    print("Hello World!")
+-- end 
 
-local btn = CreateFrame("Button", "myButton", UIParent, "SecureActionButtonTemplate")
-btn:SetAttribute("type", "action")
-btn:SetAttribute("action", 1)
+-- local btn = CreateFrame("Button", "myButton", UIParent, "SecureActionButtonTemplate")
+-- btn:SetAttribute("type", "action")
+-- btn:SetAttribute("action", 1)
 
 local function UpdatSherkWOW(self, elapsed)
   if zone ~= GetRealZoneText() then
@@ -25,9 +25,9 @@ local function UpdatSherkWOW(self, elapsed)
     -- local y = math.floor(posY * 10000)/100
 
     local base, posBuff, negBuff = UnitAttackPower("player");
-    local effective = math.floor((base + posBuff + negBuff) / 1000);
+    local effective = math.floor((base + posBuff + negBuff));
     
-    SherkWOWFontString:SetText("[  "..effective.."  ]")
+    SherkWOWFontString:SetText("|cffffffff[  "..effective.."  ]")
 
     -- print("Attack power: "..effective.."...");
     -- D:\Installation\World of Warcraft 5.4.8\Interface\AddOns\SherkWOW\SherkWOW.lua
@@ -39,11 +39,13 @@ function SherkWOW_OnLoad(self, event,...)
 end
 
 function SherkWOW_OnEvent(self, event, ...) 
+  -- 加载时创建窗口、
   if event == "ADDON_LOADED" and ... == "SherkWOW" then
     self:UnregisterEvent("ADDON_LOADED")		
     SherkWOW:SetSize(100, 50)
     SherkWOW:SetPoint("TOP", "Minimap", "BOTTOM", 5, -5)
     SherkWOW:SetScript("OnUpdate", UpdatSherkWOW)
+
     local coordsFont =    SherkWOW:CreateFontString("SherkWOWFontString", "ARTWORK", "GameFontNormal")
     coordsFont:SetPoint("CENTER", "SherkWOW", "CENTER", 0, 0)
     coordsFont:Show()
