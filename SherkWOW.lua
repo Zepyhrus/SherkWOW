@@ -26,11 +26,11 @@ local function UpdatSherkWOW(self, elapsed)
 
     local base, posBuff, negBuff = UnitAttackPower("player");
     local effective = math.floor((base + posBuff + negBuff));
-    
-    SherkWOWFontString:SetText("|cffffffff"..effective.."", 16)
 
-    -- print("Attack power: "..effective.."...");
-    -- D:\Installation\World of Warcraft 5.4.8\Interface\AddOns\SherkWOW\SherkWOW.lua
+    local mainSpeed, offSpeed = UnitAttackSpeed("player");
+    mainSpeed = math.floor(mainSpeed * 100000);
+    
+    SherkWOWFontString:SetText("|cffffffff"..effective.."\n"..mainSpeed.."")
  	end	
 end
  

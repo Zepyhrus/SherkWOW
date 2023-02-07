@@ -47,11 +47,10 @@ if __name__ == '__main__':
         y.append(int(ap))
 
         print(cnt.fps)
-
-  #       line.set_xdata(x)
-  #       line.set_ydata(y)
-    
+  
   #       # 可视化
+  #       line.set_xdata(x)
+  #       line.set_ydata(y)       
   #       plt.draw()
   #       plt.pause(1e-17)
         
