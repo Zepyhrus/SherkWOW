@@ -1,3 +1,7 @@
 *.mp4
 # *.yaml
 *.npy
+
+
+#
+cfg.yml
