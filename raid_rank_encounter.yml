@@ -1,0 +1,8678 @@
+logs:
+- deahts_total: 12
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 359517
+  guilddata:
+    faction: 1
+    leadername: Dobbz
+    name: Razorfen Downs Syndrome
+  guildid: 531
+  guildrid: 2
+  item_count: 4
+  killtime: 1693599792
+  log_id: 1471445
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 1
+  resurrects_fight: 1
+  rid: 2
+  wipes: 2
+- deahts_total: 1
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 388500
+  guilddata:
+    faction: 1
+    leadername: Kethaze
+    name: Temerity
+  guildid: 1008
+  guildrid: 2
+  item_count: 4
+  killtime: 1689715983
+  log_id: 1424665
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 2
+  resurrects_fight: 1
+  rid: 2
+  wipes: 0
+- deahts_total: 9
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 393125
+  guilddata:
+    faction: 1
+    leadername: Dobbz
+    name: Razorfen Downs Syndrome
+  guildid: 531
+  guildrid: 2
+  item_count: 4
+  killtime: 1692994259
+  log_id: 1463826
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 3
+  resurrects_fight: 0
+  rid: 2
+  wipes: 2
+- deahts_total: 1
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 395778
+  guilddata:
+    faction: 1
+    leadername: Kethaze
+    name: Temerity
+  guildid: 1008
+  guildrid: 2
+  item_count: 4
+  killtime: 1690234833
+  log_id: 1431247
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 4
+  resurrects_fight: 1
+  rid: 2
+  wipes: 0
+- deahts_total: 13
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 403346
+  guilddata:
+    faction: 1
+    leadername: Dobbz
+    name: Razorfen Downs Syndrome
+  guildid: 531
+  guildrid: 2
+  item_count: 4
+  killtime: 1688155681
+  log_id: 1405698
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 5
+  resurrects_fight: 1
+  rid: 2
+  wipes: 2
+- deahts_total: 3
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 411745
+  guilddata:
+    faction: 1
+    leadername: Dobbz
+    name: Razorfen Downs Syndrome
+  guildid: 531
+  guildrid: 2
+  item_count: 4
+  killtime: 1686339999
+  log_id: 1383339
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 6
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 29
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 411748
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1684528215
+  log_id: 1358260
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 7
+  resurrects_fight: 0
+  rid: 2
+  wipes: 3
+- deahts_total: 29
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 413424
+  guilddata:
+    faction: 1
+    leadername: Kethaze
+    name: Temerity
+  guildid: 1008
+  guildrid: 2
+  item_count: 4
+  killtime: 1687384182
+  log_id: 1396087
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 8
+  resurrects_fight: 1
+  rid: 2
+  wipes: 4
+- deahts_total: 10
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 414685
+  guilddata:
+    faction: 1
+    leadername: Euj
+    name: Happy Friends
+  guildid: 16
+  guildrid: 2
+  item_count: 4
+  killtime: 1693861456
+  log_id: 1474828
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 9
+  resurrects_fight: 0
+  rid: 2
+  wipes: 2
+- deahts_total: 2
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 416914
+  guilddata:
+    faction: 1
+    leadername: Dobbz
+    name: Razorfen Downs Syndrome
+  guildid: 531
+  guildrid: 2
+  item_count: 4
+  killtime: 1692387660
+  log_id: 1456642
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 10
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 10
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 424346
+  guilddata:
+    faction: 1
+    leadername: Karin
+    name: Enrage
+  guildid: 2790
+  guildrid: 2
+  item_count: 4
+  killtime: 1696028289
+  log_id: 1500907
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 11
+  resurrects_fight: 0
+  rid: 2
+  wipes: 2
+- deahts_total: 0
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 425311
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1688066061
+  log_id: 1404381
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 12
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
+- deahts_total: 49
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 436662
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1688672676
+  log_id: 1412274
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 13
+  resurrects_fight: 1
+  rid: 2
+  wipes: 5
+- deahts_total: 55
+  deaths_fight: 5
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 436943
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1693947215
+  log_id: 1475721
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 14
+  resurrects_fight: 1
+  rid: 2
+  wipes: 6
+- deahts_total: 44
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 437227
+  guilddata:
+    faction: 1
+    leadername: Kethaze
+    name: Temerity
+  guildid: 1008
+  guildrid: 2
+  item_count: 4
+  killtime: 1686866568
+  log_id: 1389630
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 15
+  resurrects_fight: 0
+  rid: 2
+  wipes: 4
+- deahts_total: 20
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 437787
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1695485843
+  log_id: 1494435
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 16
+  resurrects_fight: 0
+  rid: 2
+  wipes: 3
+- deahts_total: 13
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 438770
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1694878460
+  log_id: 1487012
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 17
+  resurrects_fight: 1
+  rid: 2
+  wipes: 2
+- deahts_total: 10
+  deaths_fight: 10
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 440302
+  guilddata:
+    faction: 1
+    leadername: Euj
+    name: Happy Friends
+  guildid: 16
+  guildrid: 2
+  item_count: 4
+  killtime: 1694032455
+  log_id: 1476853
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 18
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 85
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 440312
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1695503756
+  log_id: 1494724
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 19
+  resurrects_fight: 1
+  rid: 2
+  wipes: 9
+- deahts_total: 10
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 445620
+  guilddata:
+    faction: 1
+    leadername: Dobbz
+    name: Razorfen Downs Syndrome
+  guildid: 531
+  guildrid: 2
+  item_count: 4
+  killtime: 1685132328
+  log_id: 1367743
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 20
+  resurrects_fight: 0
+  rid: 2
+  wipes: 2
+- deahts_total: 31
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 447729
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1694354874
+  log_id: 1480739
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 21
+  resurrects_fight: 1
+  rid: 2
+  wipes: 3
+- deahts_total: 1
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 451228
+  guilddata:
+    faction: 1
+    leadername: Dobbz
+    name: Razorfen Downs Syndrome
+  guildid: 531
+  guildrid: 2
+  item_count: 4
+  killtime: 1683920958
+  log_id: 1346338
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 22
+  resurrects_fight: 1
+  rid: 2
+  wipes: 0
+- deahts_total: 2
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 452353
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1695584400
+  log_id: 1495795
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 23
+  resurrects_fight: 1
+  rid: 2
+  wipes: 0
+- deahts_total: 34
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 452773
+  guilddata:
+    faction: 0
+    leadername: Errycane
+    name: Logic
+  guildid: 33
+  guildrid: 2
+  item_count: 4
+  killtime: 1696019265
+  log_id: 1500794
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 24
+  resurrects_fight: 1
+  rid: 2
+  wipes: 3
+- deahts_total: 2
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 454727
+  guilddata:
+    faction: 0
+    leadername: Errycane
+    name: Logic
+  guildid: 33
+  guildrid: 2
+  item_count: 4
+  killtime: 1696969886
+  log_id: 1511511
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 25
+  resurrects_fight: 1
+  rid: 2
+  wipes: 0
+- deahts_total: 11
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 458638
+  guilddata:
+    faction: 1
+    leadername: Kethaze
+    name: Temerity
+  guildid: 1008
+  guildrid: 2
+  item_count: 4
+  killtime: 1690924332
+  log_id: 1439737
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 26
+  resurrects_fight: 0
+  rid: 2
+  wipes: 1
+- deahts_total: 21
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 459069
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1694378960
+  log_id: 1481088
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 27
+  resurrects_fight: 0
+  rid: 2
+  wipes: 2
+- deahts_total: 41
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 459209
+  guilddata:
+    faction: 1
+    leadername: Karin
+    name: Enrage
+  guildid: 2790
+  guildrid: 2
+  item_count: 4
+  killtime: 1691625709
+  log_id: 1448111
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 28
+  resurrects_fight: 0
+  rid: 2
+  wipes: 4
+- deahts_total: 24
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 460323
+  guilddata:
+    faction: 1
+    leadername: Kethaze
+    name: Temerity
+  guildid: 1008
+  guildrid: 2
+  item_count: 4
+  killtime: 1688075004
+  log_id: 1404585
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 29
+  resurrects_fight: 1
+  rid: 2
+  wipes: 2
+- deahts_total: 21
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 461713
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1694980810
+  log_id: 1488213
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 30
+  resurrects_fight: 0
+  rid: 2
+  wipes: 2
+- deahts_total: 54
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 462004
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1695310707
+  log_id: 1492289
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 31
+  resurrects_fight: 0
+  rid: 2
+  wipes: 6
+- deahts_total: 6
+  deaths_fight: 6
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 462427
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1686172864
+  log_id: 1381121
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 32
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 12
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 462431
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1691353582
+  log_id: 1445208
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 33
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 17
+  deaths_fight: 6
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 464525
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1694981051
+  log_id: 1488215
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 34
+  resurrects_fight: 0
+  rid: 2
+  wipes: 2
+- deahts_total: 13
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 467322
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1694377528
+  log_id: 1481070
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 35
+  resurrects_fight: 1
+  rid: 2
+  wipes: 2
+- deahts_total: 63
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 468452
+  guilddata:
+    faction: 1
+    leadername: Karin
+    name: Enrage
+  guildid: 2790
+  guildrid: 2
+  item_count: 4
+  killtime: 1694567351
+  log_id: 1483080
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 36
+  resurrects_fight: 0
+  rid: 2
+  wipes: 7
+- deahts_total: 11
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 469145
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1687460983
+  log_id: 1397092
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 37
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 2
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 470408
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1696190322
+  log_id: 1502760
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 38
+  resurrects_fight: 0
+  rid: 2
+  wipes: 1
+- deahts_total: 0
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 471943
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1693164749
+  log_id: 1466006
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 39
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
+- deahts_total: 20
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 473901
+  guilddata:
+    faction: 1
+    leadername: Karin
+    name: Enrage
+  guildid: 2790
+  guildrid: 2
+  item_count: 4
+  killtime: 1695337551
+  log_id: 1492765
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 40
+  resurrects_fight: 0
+  rid: 2
+  wipes: 3
+- deahts_total: 50
+  deaths_fight: 5
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 474189
+  guilddata:
+    faction: 1
+    leadername: Gzgza
+    name: Buncha Lazy Baddies
+  guildid: 3962
+  guildrid: 2
+  item_count: 4
+  killtime: 1694725996
+  log_id: 1485301
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 41
+  resurrects_fight: 1
+  rid: 2
+  wipes: 6
+- deahts_total: 22
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 475301
+  guilddata:
+    faction: 0
+    leadername: Errycane
+    name: Logic
+  guildid: 33
+  guildrid: 2
+  item_count: 4
+  killtime: 1695328934
+  log_id: 1492619
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 42
+  resurrects_fight: 1
+  rid: 2
+  wipes: 2
+- deahts_total: 11
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 475865
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1690484103
+  log_id: 1434355
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 43
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 1
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 475867
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1692567747
+  log_id: 1458887
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 44
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 15
+  deaths_fight: 5
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 476016
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1691091380
+  log_id: 1442025
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 45
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 22
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 477126
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1691793656
+  log_id: 1450096
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 46
+  resurrects_fight: 2
+  rid: 2
+  wipes: 2
+- deahts_total: 54
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 477407
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1692561407
+  log_id: 1458802
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 47
+  resurrects_fight: 0
+  rid: 2
+  wipes: 5
+- deahts_total: 0
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 479793
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1690053865
+  log_id: 1429030
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 48
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
+- deahts_total: 39
+  deaths_fight: 8
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 481891
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1684966278
+  log_id: 1365149
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 49
+  resurrects_fight: 0
+  rid: 2
+  wipes: 3
+- deahts_total: 32
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 483287
+  guilddata:
+    faction: 0
+    leadername: Errycane
+    name: Logic
+  guildid: 33
+  guildrid: 2
+  item_count: 4
+  killtime: 1690488126
+  log_id: 1434416
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 50
+  resurrects_fight: 0
+  rid: 2
+  wipes: 3
+- deahts_total: 39
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 483984
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1696774084
+  log_id: 1509256
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 51
+  resurrects_fight: 0
+  rid: 2
+  wipes: 5
+- deahts_total: 19
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 484399
+  guilddata:
+    faction: 1
+    leadername: Exidk
+    name: STEEP HILL
+  guildid: 14
+  guildrid: 2
+  item_count: 4
+  killtime: 1683749830
+  log_id: 1343398
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 52
+  resurrects_fight: 0
+  rid: 2
+  wipes: 2
+- deahts_total: 9
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 484543
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1695398682
+  log_id: 1493405
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 53
+  resurrects_fight: 0
+  rid: 2
+  wipes: 3
+- deahts_total: 12
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 486080
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1691107547
+  log_id: 1442332
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 54
+  resurrects_fight: 0
+  rid: 2
+  wipes: 1
+- deahts_total: 43
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 488604
+  guilddata:
+    faction: 1
+    leadername: Karin
+    name: Enrage
+  guildid: 2790
+  guildrid: 2
+  item_count: 4
+  killtime: 1696629441
+  log_id: 1507706
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 55
+  resurrects_fight: 0
+  rid: 2
+  wipes: 5
+- deahts_total: 0
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 489035
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1688335032
+  log_id: 1408087
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 56
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
+- deahts_total: 0
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 489157
+  guilddata:
+    faction: 1
+    leadername: Exidk
+    name: STEEP HILL
+  guildid: 14
+  guildrid: 2
+  item_count: 4
+  killtime: 1684352125
+  log_id: 1354652
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 57
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
+- deahts_total: 75
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 490841
+  guilddata:
+    faction: 1
+    leadername: Karin
+    name: Enrage
+  guildid: 2790
+  guildrid: 2
+  item_count: 4
+  killtime: 1697600978
+  log_id: 1519011
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 58
+  resurrects_fight: 0
+  rid: 2
+  wipes: 8
+- deahts_total: 12
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 490978
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1689900538
+  log_id: 1427179
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 59
+  resurrects_fight: 2
+  rid: 2
+  wipes: 1
+- deahts_total: 74
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 491408
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1693500551
+  log_id: 1470098
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 60
+  resurrects_fight: 1
+  rid: 2
+  wipes: 9
+- deahts_total: 1
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 491680
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1697124449
+  log_id: 1513546
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 61
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 2
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 492245
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1689349707
+  log_id: 1420437
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 62
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 44
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 492386
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1693168240
+  log_id: 1466069
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 63
+  resurrects_fight: 1
+  rid: 2
+  wipes: 5
+- deahts_total: 46
+  deaths_fight: 6
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 492947
+  guilddata:
+    faction: 1
+    leadername: Kethaze
+    name: Temerity
+  guildid: 1008
+  guildrid: 2
+  item_count: 4
+  killtime: 1689114291
+  log_id: 1417474
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 64
+  resurrects_fight: 1
+  rid: 2
+  wipes: 4
+- deahts_total: 120
+  deaths_fight: 6
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 493086
+  guilddata:
+    faction: 1
+    leadername: Karin
+    name: Enrage
+  guildid: 2790
+  guildrid: 2
+  item_count: 4
+  killtime: 1689722266
+  log_id: 1424741
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 65
+  resurrects_fight: 1
+  rid: 2
+  wipes: 11
+- deahts_total: 33
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 493364
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1691955443
+  log_id: 1451953
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 66
+  resurrects_fight: 1
+  rid: 2
+  wipes: 3
+- deahts_total: 10
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 493517
+  guilddata:
+    faction: 1
+    leadername: Exidk
+    name: STEEP HILL
+  guildid: 14
+  guildrid: 2
+  item_count: 4
+  killtime: 1683143949
+  log_id: 1332610
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 67
+  resurrects_fight: 0
+  rid: 2
+  wipes: 2
+- deahts_total: 8
+  deaths_fight: 8
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 493640
+  guilddata:
+    faction: 1
+    leadername: Dobbz
+    name: Razorfen Downs Syndrome
+  guildid: 531
+  guildrid: 2
+  item_count: 4
+  killtime: 1683321759
+  log_id: 1336193
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 68
+  resurrects_fight: 3
+  rid: 2
+  wipes: 0
+- deahts_total: 24
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 493928
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1686946963
+  log_id: 1390688
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 69
+  resurrects_fight: 2
+  rid: 2
+  wipes: 2
+- deahts_total: 11
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 494491
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1691352595
+  log_id: 1445186
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 70
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 0
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 496584
+  guilddata:
+    faction: 1
+    leadername: Dobbz
+    name: Razorfen Downs Syndrome
+  guildid: 531
+  guildrid: 2
+  item_count: 4
+  killtime: 1681503046
+  log_id: 1297711
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 71
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
+- deahts_total: 2
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 496586
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1690668671
+  log_id: 1436662
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 72
+  resurrects_fight: 1
+  rid: 2
+  wipes: 0
+- deahts_total: 12
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 497403
+  guilddata:
+    faction: 1
+    leadername: Dobbz
+    name: Razorfen Downs Syndrome
+  guildid: 531
+  guildrid: 2
+  item_count: 4
+  killtime: 1682109558
+  log_id: 1310987
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 73
+  resurrects_fight: 0
+  rid: 2
+  wipes: 2
+- deahts_total: 31
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 497704
+  guilddata:
+    faction: 1
+    leadername: Idinahui
+    name: GG
+  guildid: 40
+  guildrid: 2
+  item_count: 4
+  killtime: 1680208182
+  log_id: 1269494
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 74
+  resurrects_fight: 1
+  rid: 2
+  wipes: 3
+- deahts_total: 32
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 498258
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1692892839
+  log_id: 1462661
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 75
+  resurrects_fight: 0
+  rid: 2
+  wipes: 4
+- deahts_total: 1
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 498263
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1681332435
+  log_id: 1293643
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 76
+  resurrects_fight: 1
+  rid: 2
+  wipes: 0
+- deahts_total: 139
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 498976
+  guilddata:
+    faction: 1
+    leadername: Karin
+    name: Enrage
+  guildid: 2790
+  guildrid: 2
+  item_count: 4
+  killtime: 1693882882
+  log_id: 1475121
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 77
+  resurrects_fight: 1
+  rid: 2
+  wipes: 13
+- deahts_total: 34
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 499796
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1685131022
+  log_id: 1367725
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 78
+  resurrects_fight: 1
+  rid: 2
+  wipes: 3
+- deahts_total: 1
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 499804
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1687549642
+  log_id: 1398149
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 79
+  resurrects_fight: 1
+  rid: 2
+  wipes: 0
+- deahts_total: 37
+  deaths_fight: 5
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 499806
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1694387678
+  log_id: 1481238
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 80
+  resurrects_fight: 0
+  rid: 2
+  wipes: 4
+- deahts_total: 22
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 500227
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1692979752
+  log_id: 1463616
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 81
+  resurrects_fight: 0
+  rid: 2
+  wipes: 3
+- deahts_total: 23
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 500502
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1689880918
+  log_id: 1426923
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 82
+  resurrects_fight: 2
+  rid: 2
+  wipes: 2
+- deahts_total: 58
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 501487
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1686861423
+  log_id: 1389525
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 83
+  resurrects_fight: 1
+  rid: 2
+  wipes: 6
+- deahts_total: 5
+  deaths_fight: 5
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 502601
+  guilddata:
+    faction: 1
+    leadername: Karin
+    name: Enrage
+  guildid: 2790
+  guildrid: 2
+  item_count: 4
+  killtime: 1689981919
+  log_id: 1428178
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 84
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
+- deahts_total: 72
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 504988
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1691105486
+  log_id: 1442293
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 85
+  resurrects_fight: 0
+  rid: 2
+  wipes: 7
+- deahts_total: 11
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 506533
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1682540343
+  log_id: 1319632
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 86
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 19
+  deaths_fight: 9
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 506849
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1693772685
+  log_id: 1473736
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 87
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 30
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 506946
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1691956819
+  log_id: 1451967
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 88
+  resurrects_fight: 1
+  rid: 2
+  wipes: 3
+- deahts_total: 0
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 507228
+  guilddata:
+    faction: 0
+    leadername: Errycane
+    name: Logic
+  guildid: 33
+  guildrid: 2
+  item_count: 4
+  killtime: 1694116464
+  log_id: 1477930
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 89
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
+- deahts_total: 8
+  deaths_fight: 7
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 509190
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1693771044
+  log_id: 1473697
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 90
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 13
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 509882
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1694705505
+  log_id: 1484905
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 91
+  resurrects_fight: 0
+  rid: 2
+  wipes: 3
+- deahts_total: 43
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 510023
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1691958245
+  log_id: 1451980
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 92
+  resurrects_fight: 1
+  rid: 2
+  wipes: 4
+- deahts_total: 106
+  deaths_fight: 10
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 510160
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1695756159
+  log_id: 1497547
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 93
+  resurrects_fight: 1
+  rid: 2
+  wipes: 10
+- deahts_total: 3
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 510440
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1696192804
+  log_id: 1502790
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 94
+  resurrects_fight: 1
+  rid: 2
+  wipes: 0
+- deahts_total: 54
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 512130
+  guilddata:
+    faction: 1
+    leadername: Naydahr
+    name: Alfheim
+  guildid: 3547
+  guildrid: 2
+  item_count: 4
+  killtime: 1692072798
+  log_id: 1453206
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 95
+  resurrects_fight: 1
+  rid: 2
+  wipes: 5
+- deahts_total: 79
+  deaths_fight: 6
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 512131
+  guilddata:
+    faction: 1
+    leadername: Naydahr
+    name: Alfheim
+  guildid: 3547
+  guildrid: 2
+  item_count: 4
+  killtime: 1689730643
+  log_id: 1424857
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 96
+  resurrects_fight: 1
+  rid: 2
+  wipes: 8
+- deahts_total: 40
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 513247
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1697298248
+  log_id: 1515807
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 97
+  resurrects_fight: 1
+  rid: 2
+  wipes: 5
+- deahts_total: 63
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 513518
+  guilddata:
+    faction: 1
+    leadername: Donkeyguild
+    name: Jues Sister
+  guildid: 3808
+  guildrid: 2
+  item_count: 4
+  killtime: 1679522949
+  log_id: 1254440
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 98
+  resurrects_fight: 0
+  rid: 2
+  wipes: 6
+- deahts_total: 13
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 513806
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1686253284
+  log_id: 1382142
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 99
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 14
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 513809
+  guilddata:
+    faction: 1
+    leadername: Karin
+    name: Enrage
+  guildid: 2790
+  guildrid: 2
+  item_count: 4
+  killtime: 1694900817
+  log_id: 1487300
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 100
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 12
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 514223
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1685570252
+  log_id: 1373872
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 101
+  resurrects_fight: 1
+  rid: 2
+  wipes: 2
+- deahts_total: 40
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 514508
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1693153672
+  log_id: 1465797
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 102
+  resurrects_fight: 0
+  rid: 2
+  wipes: 5
+- deahts_total: 14
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 515204
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1689264335
+  log_id: 1419383
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 103
+  resurrects_fight: 1
+  rid: 2
+  wipes: 2
+- deahts_total: 57
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 515207
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1692546730
+  log_id: 1458534
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 104
+  resurrects_fight: 0
+  rid: 2
+  wipes: 7
+- deahts_total: 6
+  deaths_fight: 6
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 515355
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1690746103
+  log_id: 1437593
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 105
+  resurrects_fight: 3
+  rid: 2
+  wipes: 0
+- deahts_total: 155
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 516045
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1697552528
+  log_id: 1518439
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 106
+  resurrects_fight: 0
+  rid: 2
+  wipes: 17
+- deahts_total: 53
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 516046
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1691277961
+  log_id: 1444211
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 107
+  resurrects_fight: 1
+  rid: 2
+  wipes: 5
+- deahts_total: 31
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 516053
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1687019169
+  log_id: 1391630
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 108
+  resurrects_fight: 0
+  rid: 2
+  wipes: 4
+- deahts_total: 20
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 516185
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1692228056
+  log_id: 1454898
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 109
+  resurrects_fight: 0
+  rid: 2
+  wipes: 2
+- deahts_total: 45
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 516459
+  guilddata:
+    faction: 1
+    leadername: Naydahr
+    name: Alfheim
+  guildid: 3547
+  guildrid: 2
+  item_count: 4
+  killtime: 1690259991
+  log_id: 1431626
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 110
+  resurrects_fight: 1
+  rid: 2
+  wipes: 5
+- deahts_total: 33
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 517310
+  guilddata:
+    faction: 1
+    leadername: Dobbz
+    name: Razorfen Downs Syndrome
+  guildid: 531
+  guildrid: 2
+  item_count: 4
+  killtime: 1679088602
+  log_id: 1244420
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 111
+  resurrects_fight: 0
+  rid: 2
+  wipes: 3
+- deahts_total: 83
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 517310
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1691328959
+  log_id: 1444870
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 112
+  resurrects_fight: 1
+  rid: 2
+  wipes: 8
+- deahts_total: 3
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 517450
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1689865746
+  log_id: 1426686
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 113
+  resurrects_fight: 2
+  rid: 2
+  wipes: 1
+- deahts_total: 34
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 517738
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1684700146
+  log_id: 1361201
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 114
+  resurrects_fight: 2
+  rid: 2
+  wipes: 3
+- deahts_total: 3
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 518145
+  guilddata:
+    faction: 1
+    leadername: Dobbz
+    name: Razorfen Downs Syndrome
+  guildid: 531
+  guildrid: 2
+  item_count: 4
+  killtime: 1680381446
+  log_id: 1273317
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 115
+  resurrects_fight: 2
+  rid: 2
+  wipes: 1
+- deahts_total: 3
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 518563
+  guilddata:
+    faction: 0
+    leadername: Errycane
+    name: Logic
+  guildid: 33
+  guildrid: 2
+  item_count: 4
+  killtime: 1693510650
+  log_id: 1470268
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 116
+  resurrects_fight: 2
+  rid: 2
+  wipes: 0
+- deahts_total: 38
+  deaths_fight: 5
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 519128
+  guilddata:
+    faction: 1
+    leadername: Kethaze
+    name: Temerity
+  guildid: 1008
+  guildrid: 2
+  item_count: 4
+  killtime: 1684361917
+  log_id: 1354971
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 117
+  resurrects_fight: 1
+  rid: 2
+  wipes: 3
+- deahts_total: 75
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 519132
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1689277585
+  log_id: 1419595
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 118
+  resurrects_fight: 1
+  rid: 2
+  wipes: 7
+- deahts_total: 44
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 519412
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1683406893
+  log_id: 1337577
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 119
+  resurrects_fight: 2
+  rid: 2
+  wipes: 5
+- deahts_total: 116
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 519543
+  guilddata:
+    faction: 1
+    leadername: Ghusz
+    name: PtBr Community
+  guildid: 3329
+  guildrid: 2
+  item_count: 4
+  killtime: 1694823169
+  log_id: 1486449
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 120
+  resurrects_fight: 1
+  rid: 2
+  wipes: 11
+- deahts_total: 126
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 519825
+  guilddata:
+    faction: 1
+    leadername: Naydahr
+    name: Alfheim
+  guildid: 3547
+  guildrid: 2
+  item_count: 4
+  killtime: 1690946339
+  log_id: 1440021
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 121
+  resurrects_fight: 1
+  rid: 2
+  wipes: 12
+- deahts_total: 11
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 520096
+  guilddata:
+    faction: 1
+    leadername: Magblast
+    name: R I S E
+  guildid: 108
+  guildrid: 2
+  item_count: 4
+  killtime: 1684437753
+  log_id: 1356557
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 122
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 32
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 520244
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1688307498
+  log_id: 1407647
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 123
+  resurrects_fight: 0
+  rid: 2
+  wipes: 4
+- deahts_total: 54
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 520385
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1691932496
+  log_id: 1451637
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 124
+  resurrects_fight: 1
+  rid: 2
+  wipes: 5
+- deahts_total: 3
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 520531
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1691074541
+  log_id: 1441713
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 125
+  resurrects_fight: 0
+  rid: 2
+  wipes: 1
+- deahts_total: 41
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 521086
+  guilddata:
+    faction: 1
+    leadername: Discobank
+    name: Pegged him
+  guildid: 3826
+  guildrid: 2
+  item_count: 4
+  killtime: 1679696881
+  log_id: 1258132
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 126
+  resurrects_fight: 0
+  rid: 2
+  wipes: 4
+- deahts_total: 20
+  deaths_fight: 9
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 521220
+  guilddata:
+    faction: 1
+    leadername: Dobbz
+    name: Razorfen Downs Syndrome
+  guildid: 531
+  guildrid: 2
+  item_count: 4
+  killtime: 1681247725
+  log_id: 1291830
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 127
+  resurrects_fight: 2
+  rid: 2
+  wipes: 1
+- deahts_total: 12
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 521369
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1690472393
+  log_id: 1434160
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 128
+  resurrects_fight: 2
+  rid: 2
+  wipes: 1
+- deahts_total: 3
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 521645
+  guilddata:
+    faction: 1
+    leadername: Naydahr
+    name: Alfheim
+  guildid: 3547
+  guildrid: 2
+  item_count: 4
+  killtime: 1691466207
+  log_id: 1446450
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 129
+  resurrects_fight: 2
+  rid: 2
+  wipes: 0
+- deahts_total: 14
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 522064
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1689467366
+  log_id: 1421956
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 130
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 32
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 522066
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1690117381
+  log_id: 1429777
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 131
+  resurrects_fight: 0
+  rid: 2
+  wipes: 4
+- deahts_total: 33
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 522385
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1690314024
+  log_id: 1432178
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 132
+  resurrects_fight: 1
+  rid: 2
+  wipes: 3
+- deahts_total: 192
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 522488
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1691537558
+  log_id: 1447010
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 133
+  resurrects_fight: 0
+  rid: 2
+  wipes: 20
+- deahts_total: 32
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 522489
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1688658928
+  log_id: 1412059
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 134
+  resurrects_fight: 0
+  rid: 2
+  wipes: 4
+- deahts_total: 23
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 522902
+  guilddata:
+    faction: 1
+    leadername: Karin
+    name: Enrage
+  guildid: 2790
+  guildrid: 2
+  item_count: 4
+  killtime: 1690586924
+  log_id: 1435717
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 135
+  resurrects_fight: 0
+  rid: 2
+  wipes: 2
+- deahts_total: 13
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 523458
+  guilddata:
+    faction: 1
+    leadername: Magblast
+    name: R I S E
+  guildid: 108
+  guildrid: 2
+  item_count: 4
+  killtime: 1683833999
+  log_id: 1344957
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 136
+  resurrects_fight: 0
+  rid: 2
+  wipes: 1
+- deahts_total: 29
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 523467
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1696337506
+  log_id: 1504179
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 137
+  resurrects_fight: 1
+  rid: 2
+  wipes: 3
+- deahts_total: 2
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 523599
+  guilddata:
+    faction: 1
+    leadername: Kethaze
+    name: Temerity
+  guildid: 1008
+  guildrid: 2
+  item_count: 4
+  killtime: 1687211817
+  log_id: 1394082
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 138
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 2
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 523893
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1691723239
+  log_id: 1449410
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 139
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
+- deahts_total: 20
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 524437
+  guilddata:
+    faction: 1
+    leadername: Rolun
+    name: Laundry Person
+  guildid: 452
+  guildrid: 2
+  item_count: 4
+  killtime: 1683321344
+  log_id: 1336186
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 140
+  resurrects_fight: 0
+  rid: 2
+  wipes: 2
+- deahts_total: 56
+  deaths_fight: 5
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 524571
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1688267981
+  log_id: 1407252
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 141
+  resurrects_fight: 1
+  rid: 2
+  wipes: 5
+- deahts_total: 51
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 525161
+  guilddata:
+    faction: 1
+    leadername: Karin
+    name: Enrage
+  guildid: 2790
+  guildrid: 2
+  item_count: 4
+  killtime: 1694207852
+  log_id: 1479080
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 142
+  resurrects_fight: 1
+  rid: 2
+  wipes: 6
+- deahts_total: 95
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 526269
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1682624581
+  log_id: 1321570
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 143
+  resurrects_fight: 1
+  rid: 2
+  wipes: 9
+- deahts_total: 19
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 526269
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1694966988
+  log_id: 1488008
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 144
+  resurrects_fight: 0
+  rid: 2
+  wipes: 3
+- deahts_total: 159
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 526278
+  guilddata:
+    faction: 1
+    leadername: Keseej
+    name: Cascade
+  guildid: 2351
+  guildrid: 2
+  item_count: 4
+  killtime: 1683665433
+  log_id: 1341747
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 145
+  resurrects_fight: 0
+  rid: 2
+  wipes: 18
+- deahts_total: 1
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 527111
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1693062966
+  log_id: 1464575
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 146
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 25
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 527525
+  guilddata:
+    faction: 1
+    leadername: Magblast
+    name: R I S E
+  guildid: 108
+  guildrid: 2
+  item_count: 4
+  killtime: 1685043401
+  log_id: 1366239
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 147
+  resurrects_fight: 1
+  rid: 2
+  wipes: 2
+- deahts_total: 65
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 527807
+  guilddata:
+    faction: 1
+    leadername: Karin
+    name: Enrage
+  guildid: 2790
+  guildrid: 2
+  item_count: 4
+  killtime: 1693356417
+  log_id: 1468172
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 148
+  resurrects_fight: 1
+  rid: 2
+  wipes: 6
+- deahts_total: 1
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 527808
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1686315726
+  log_id: 1382916
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 149
+  resurrects_fight: 1
+  rid: 2
+  wipes: 0
+- deahts_total: 13
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 528216
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1683837140
+  log_id: 1345034
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 150
+  resurrects_fight: 2
+  rid: 2
+  wipes: 1
+- deahts_total: 40
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 528227
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1689439761
+  log_id: 1421505
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 151
+  resurrects_fight: 0
+  rid: 2
+  wipes: 6
+- deahts_total: 41
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 528358
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1689956205
+  log_id: 1427791
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 152
+  resurrects_fight: 1
+  rid: 2
+  wipes: 5
+- deahts_total: 0
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 528652
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1693745409
+  log_id: 1473366
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 153
+  resurrects_fight: 0
+  rid: 2
+  wipes: 1
+- deahts_total: 4
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 529210
+  guilddata:
+    faction: 1
+    leadername: Dobbz
+    name: Razorfen Downs Syndrome
+  guildid: 531
+  guildrid: 2
+  item_count: 4
+  killtime: 1682714397
+  log_id: 1323380
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 154
+  resurrects_fight: 2
+  rid: 2
+  wipes: 1
+- deahts_total: 67
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 529214
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1688931724
+  log_id: 1415359
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 155
+  resurrects_fight: 2
+  rid: 2
+  wipes: 7
+- deahts_total: 13
+  deaths_fight: 5
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 529617
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1688743018
+  log_id: 1413051
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 156
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 87
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 529899
+  guilddata:
+    faction: 0
+    leadername: Lorellai
+    name: Khazar Milkers
+  guildid: 3490
+  guildrid: 2
+  item_count: 4
+  killtime: 1693092528
+  log_id: 1464985
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 157
+  resurrects_fight: 1
+  rid: 2
+  wipes: 8
+- deahts_total: 20
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 530193
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1693583004
+  log_id: 1471209
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 158
+  resurrects_fight: 1
+  rid: 2
+  wipes: 3
+- deahts_total: 72
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 531168
+  guilddata:
+    faction: 1
+    leadername: Karin
+    name: Enrage
+  guildid: 2790
+  guildrid: 2
+  item_count: 4
+  killtime: 1695783631
+  log_id: 1497908
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 159
+  resurrects_fight: 0
+  rid: 2
+  wipes: 8
+- deahts_total: 33
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 531723
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1691239761
+  log_id: 1443663
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 160
+  resurrects_fight: 1
+  rid: 2
+  wipes: 4
+- deahts_total: 142
+  deaths_fight: 12
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 531733
+  guilddata:
+    faction: 1
+    leadername: Ghusz
+    name: PtBr Community
+  guildid: 3329
+  guildrid: 2
+  item_count: 4
+  killtime: 1693874151
+  log_id: 1474984
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 161
+  resurrects_fight: 3
+  rid: 2
+  wipes: 13
+- deahts_total: 11
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 531878
+  guilddata:
+    faction: 1
+    leadername: Kethaze
+    name: Temerity
+  guildid: 1008
+  guildrid: 2
+  item_count: 4
+  killtime: 1686521368
+  log_id: 1385613
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 162
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 77
+  deaths_fight: 6
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 532425
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1690751553
+  log_id: 1437668
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 163
+  resurrects_fight: 1
+  rid: 2
+  wipes: 7
+- deahts_total: 33
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 532562
+  guilddata:
+    faction: 0
+    leadername: Errycane
+    name: Logic
+  guildid: 33
+  guildrid: 2
+  item_count: 4
+  killtime: 1692996691
+  log_id: 1463867
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 164
+  resurrects_fight: 1
+  rid: 2
+  wipes: 3
+- deahts_total: 125
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 532706
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1689543526
+  log_id: 1422961
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 165
+  resurrects_fight: 2
+  rid: 2
+  wipes: 13
+- deahts_total: 41
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 532708
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1693758961
+  log_id: 1473529
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 166
+  resurrects_fight: 2
+  rid: 2
+  wipes: 6
+- deahts_total: 25
+  deaths_fight: 5
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 533537
+  guilddata:
+    faction: 0
+    leadername: Errycane
+    name: Logic
+  guildid: 33
+  guildrid: 2
+  item_count: 4
+  killtime: 1695156523
+  log_id: 1490406
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 167
+  resurrects_fight: 1
+  rid: 2
+  wipes: 2
+- deahts_total: 82
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 534249
+  guilddata:
+    faction: 0
+    leadername: Treejtvx
+    name: Pieces
+  guildid: 2349
+  guildrid: 2
+  item_count: 4
+  killtime: 1694969845
+  log_id: 1488048
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 168
+  resurrects_fight: 2
+  rid: 2
+  wipes: 8
+- deahts_total: 40
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 534385
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1697555238
+  log_id: 1518488
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 169
+  resurrects_fight: 1
+  rid: 2
+  wipes: 5
+- deahts_total: 132
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 535650
+  guilddata:
+    faction: 1
+    leadername: Murallhinda
+    name: Nemesis
+  guildid: 245
+  guildrid: 2
+  item_count: 4
+  killtime: 1682989045
+  log_id: 1329440
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 170
+  resurrects_fight: 1
+  rid: 2
+  wipes: 13
+- deahts_total: 30
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 535923
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1680730194
+  log_id: 1280385
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 171
+  resurrects_fight: 0
+  rid: 2
+  wipes: 4
+- deahts_total: 15
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 536066
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1688310678
+  log_id: 1407683
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 172
+  resurrects_fight: 1
+  rid: 2
+  wipes: 3
+- deahts_total: 122
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 536068
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1692541154
+  log_id: 1458475
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 173
+  resurrects_fight: 0
+  rid: 2
+  wipes: 13
+- deahts_total: 1
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 536349
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1694956928
+  log_id: 1487927
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 174
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
+- deahts_total: 34
+  deaths_fight: 5
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 537611
+  guilddata:
+    faction: 1
+    leadername: Karin
+    name: Enrage
+  guildid: 2790
+  guildrid: 2
+  item_count: 4
+  killtime: 1694908014
+  log_id: 1487395
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 175
+  resurrects_fight: 0
+  rid: 2
+  wipes: 4
+- deahts_total: 13
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 537746
+  guilddata:
+    faction: 1
+    leadername: Kethaze
+    name: Temerity
+  guildid: 1008
+  guildrid: 2
+  item_count: 4
+  killtime: 1681940116
+  log_id: 1307507
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 176
+  resurrects_fight: 2
+  rid: 2
+  wipes: 1
+- deahts_total: 42
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 538734
+  guilddata:
+    faction: 1
+    leadername: Rokellthee
+    name: Enter the Dream
+  guildid: 147
+  guildrid: 2
+  item_count: 4
+  killtime: 1684444733
+  log_id: 1356752
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 177
+  resurrects_fight: 1
+  rid: 2
+  wipes: 4
+- deahts_total: 4
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 539281
+  guilddata:
+    faction: 1
+    leadername: Magblast
+    name: R I S E
+  guildid: 108
+  guildrid: 2
+  item_count: 4
+  killtime: 1685652050
+  log_id: 1374904
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 178
+  resurrects_fight: 1
+  rid: 2
+  wipes: 0
+- deahts_total: 4
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 539296
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1692460411
+  log_id: 1457433
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 179
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 24
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 539436
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 5
+  killtime: 1687613331
+  log_id: 1398895
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 180
+  resurrects_fight: 1
+  rid: 2
+  wipes: 2
+- deahts_total: 19
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 539842
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1696941905
+  log_id: 1511122
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 181
+  resurrects_fight: 1
+  rid: 2
+  wipes: 4
+- deahts_total: 12
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 540263
+  guilddata:
+    faction: 1
+    leadername: Karin
+    name: Enrage
+  guildid: 2790
+  guildrid: 2
+  item_count: 4
+  killtime: 1690487607
+  log_id: 1434407
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 182
+  resurrects_fight: 1
+  rid: 2
+  wipes: 2
+- deahts_total: 12
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 541111
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1691266036
+  log_id: 1444041
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 183
+  resurrects_fight: 0
+  rid: 2
+  wipes: 1
+- deahts_total: 184
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 541522
+  guilddata:
+    faction: 1
+    leadername: Lerusichka
+    name: Hordes Way
+  guildid: 249
+  guildrid: 2
+  item_count: 4
+  killtime: 1681847630
+  log_id: 1305323
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 184
+  resurrects_fight: 0
+  rid: 2
+  wipes: 19
+- deahts_total: 53
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 541946
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1688142673
+  log_id: 1405514
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 185
+  resurrects_fight: 0
+  rid: 2
+  wipes: 5
+- deahts_total: 0
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 541951
+  guilddata:
+    faction: 1
+    leadername: Tolkien
+    name: Fusion
+  guildid: 83
+  guildrid: 2
+  item_count: 4
+  killtime: 1683486026
+  log_id: 1338942
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 186
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
+- deahts_total: 52
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 542503
+  guilddata:
+    faction: 1
+    leadername: Keseej
+    name: Cascade
+  guildid: 2351
+  guildrid: 2
+  item_count: 4
+  killtime: 1684265991
+  log_id: 1352933
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 187
+  resurrects_fight: 1
+  rid: 2
+  wipes: 5
+- deahts_total: 43
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 543901
+  guilddata:
+    faction: 1
+    leadername: Rokellthee
+    name: Enter the Dream
+  guildid: 147
+  guildrid: 2
+  item_count: 4
+  killtime: 1683838542
+  log_id: 1345046
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 188
+  resurrects_fight: 0
+  rid: 2
+  wipes: 4
+- deahts_total: 103
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 544460
+  guilddata:
+    faction: 1
+    leadername: Ghusz
+    name: PtBr Community
+  guildid: 3329
+  guildrid: 2
+  item_count: 4
+  killtime: 1694477338
+  log_id: 1482220
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 189
+  resurrects_fight: 3
+  rid: 2
+  wipes: 10
+- deahts_total: 54
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 544599
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1695572050
+  log_id: 1495586
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 190
+  resurrects_fight: 1
+  rid: 2
+  wipes: 6
+- deahts_total: 64
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 544746
+  guilddata:
+    faction: 0
+    leadername: Lorellai
+    name: Khazar Milkers
+  guildid: 3490
+  guildrid: 2
+  item_count: 4
+  killtime: 1690747719
+  log_id: 1437612
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 191
+  resurrects_fight: 1
+  rid: 2
+  wipes: 6
+- deahts_total: 71
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 544883
+  guilddata:
+    faction: 0
+    leadername: Errycane
+    name: Logic
+  guildid: 33
+  guildrid: 2
+  item_count: 4
+  killtime: 1692305463
+  log_id: 1455811
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 192
+  resurrects_fight: 1
+  rid: 2
+  wipes: 7
+- deahts_total: 40
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 545589
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1690559299
+  log_id: 1435248
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 193
+  resurrects_fight: 1
+  rid: 2
+  wipes: 5
+- deahts_total: 36
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 546011
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1686411369
+  log_id: 1384250
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 194
+  resurrects_fight: 1
+  rid: 2
+  wipes: 3
+- deahts_total: 71
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 546285
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1694352364
+  log_id: 1480710
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 195
+  resurrects_fight: 0
+  rid: 2
+  wipes: 9
+- deahts_total: 45
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 546701
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1685904010
+  log_id: 1378205
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 196
+  resurrects_fight: 1
+  rid: 2
+  wipes: 4
+- deahts_total: 30
+  deaths_fight: 9
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 546713
+  guilddata:
+    faction: 1
+    leadername: Naydahr
+    name: Alfheim
+  guildid: 3547
+  guildrid: 2
+  item_count: 4
+  killtime: 1687657671
+  log_id: 1399632
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 197
+  resurrects_fight: 3
+  rid: 2
+  wipes: 2
+- deahts_total: 22
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 547119
+  guilddata:
+    faction: 1
+    leadername: Rolun
+    name: Laundry Person
+  guildid: 452
+  guildrid: 2
+  item_count: 4
+  killtime: 1682105374
+  log_id: 1310838
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 198
+  resurrects_fight: 0
+  rid: 2
+  wipes: 2
+- deahts_total: 39
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 547405
+  guilddata:
+    faction: 1
+    leadername: Rolun
+    name: Laundry Person
+  guildid: 452
+  guildrid: 2
+  item_count: 4
+  killtime: 1682715137
+  log_id: 1323404
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 199
+  resurrects_fight: 0
+  rid: 2
+  wipes: 4
+- deahts_total: 12
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 547816
+  guilddata:
+    faction: 1
+    leadername: Kethaze
+    name: Temerity
+  guildid: 1008
+  guildrid: 2
+  item_count: 4
+  killtime: 1686088679
+  log_id: 1380113
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 200
+  resurrects_fight: 0
+  rid: 2
+  wipes: 2
+- deahts_total: 6
+  deaths_fight: 6
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 547970
+  guilddata:
+    faction: 1
+    leadername: Keseej
+    name: Cascade
+  guildid: 2351
+  guildrid: 2
+  item_count: 4
+  killtime: 1684872062
+  log_id: 1363449
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 201
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
+- deahts_total: 75
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 548385
+  guilddata:
+    faction: 0
+    leadername: Errycane
+    name: Logic
+  guildid: 33
+  guildrid: 2
+  item_count: 4
+  killtime: 1688072976
+  log_id: 1404536
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 202
+  resurrects_fight: 0
+  rid: 2
+  wipes: 7
+- deahts_total: 3
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 549363
+  guilddata:
+    faction: 1
+    leadername: Murallhinda
+    name: Nemesis
+  guildid: 245
+  guildrid: 2
+  item_count: 4
+  killtime: 1684021866
+  log_id: 1348580
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 203
+  resurrects_fight: 2
+  rid: 2
+  wipes: 0
+- deahts_total: 108
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 551778
+  guilddata:
+    faction: 1
+    leadername: Naydahr
+    name: Alfheim
+  guildid: 3547
+  guildrid: 2
+  item_count: 4
+  killtime: 1687055453
+  log_id: 1392224
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 204
+  resurrects_fight: 1
+  rid: 2
+  wipes: 10
+- deahts_total: 10
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 552441
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1682198534
+  log_id: 1312904
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 205
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 79
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 552866
+  guilddata:
+    faction: 1
+    leadername: Ksta
+    name: Micro Perchiki
+  guildid: 2711
+  guildrid: 2
+  item_count: 4
+  killtime: 1680632436
+  log_id: 1278050
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 206
+  resurrects_fight: 1
+  rid: 2
+  wipes: 8
+- deahts_total: 22
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 553009
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1696780622
+  log_id: 1509332
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 207
+  resurrects_fight: 1
+  rid: 2
+  wipes: 3
+- deahts_total: 64
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 554131
+  guilddata:
+    faction: 1
+    leadername: Galfin
+    name: Banana Empire
+  guildid: 1950
+  guildrid: 2
+  item_count: 4
+  killtime: 1683452104
+  log_id: 1338375
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 208
+  resurrects_fight: 1
+  rid: 2
+  wipes: 6
+- deahts_total: 50
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 555800
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1684057602
+  log_id: 1349070
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 209
+  resurrects_fight: 0
+  rid: 2
+  wipes: 5
+- deahts_total: 54
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 555949
+  guilddata:
+    faction: 0
+    leadername: Errycane
+    name: Logic
+  guildid: 33
+  guildrid: 2
+  item_count: 4
+  killtime: 1687467539
+  log_id: 1397219
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 210
+  resurrects_fight: 1
+  rid: 2
+  wipes: 5
+- deahts_total: 117
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 557209
+  guilddata:
+    faction: 0
+    leadername: Lorellai
+    name: Khazar Milkers
+  guildid: 3490
+  guildrid: 2
+  item_count: 4
+  killtime: 1688503190
+  log_id: 1409977
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 211
+  resurrects_fight: 1
+  rid: 2
+  wipes: 12
+- deahts_total: 130
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 557348
+  guilddata:
+    faction: 1
+    leadername: Rokellthee
+    name: Enter the Dream
+  guildid: 147
+  guildrid: 2
+  item_count: 4
+  killtime: 1681247907
+  log_id: 1291836
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 212
+  resurrects_fight: 2
+  rid: 2
+  wipes: 13
+- deahts_total: 40
+  deaths_fight: 8
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 557760
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1687451651
+  log_id: 1396912
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 213
+  resurrects_fight: 2
+  rid: 2
+  wipes: 4
+- deahts_total: 59
+  deaths_fight: 8
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 558744
+  guilddata:
+    faction: 0
+    leadername: Errycane
+    name: Logic
+  guildid: 33
+  guildrid: 2
+  item_count: 5
+  killtime: 1691699716
+  log_id: 1449082
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 214
+  resurrects_fight: 1
+  rid: 2
+  wipes: 5
+- deahts_total: 23
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 558749
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1694536026
+  log_id: 1482721
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 215
+  resurrects_fight: 2
+  rid: 2
+  wipes: 3
+- deahts_total: 47
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 559030
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1687873821
+  log_id: 1401846
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 216
+  resurrects_fight: 1
+  rid: 2
+  wipes: 5
+- deahts_total: 33
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 559156
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1683758413
+  log_id: 1343568
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 217
+  resurrects_fight: 2
+  rid: 2
+  wipes: 4
+- deahts_total: 80
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 559165
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1691944684
+  log_id: 1451785
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 218
+  resurrects_fight: 1
+  rid: 2
+  wipes: 9
+- deahts_total: 12
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 559867
+  guilddata:
+    faction: 1
+    leadername: Magblast
+    name: R I S E
+  guildid: 108
+  guildrid: 2
+  item_count: 4
+  killtime: 1683046936
+  log_id: 1330281
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 219
+  resurrects_fight: 0
+  rid: 2
+  wipes: 2
+- deahts_total: 61
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 560146
+  guilddata:
+    faction: 1
+    leadername: Exidk
+    name: STEEP HILL
+  guildid: 14
+  guildrid: 2
+  item_count: 4
+  killtime: 1679004561
+  log_id: 1242571
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 220
+  resurrects_fight: 1
+  rid: 2
+  wipes: 7
+- deahts_total: 1
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 561412
+  guilddata:
+    faction: 1
+    leadername: Naydahr
+    name: Alfheim
+  guildid: 3547
+  guildrid: 2
+  item_count: 4
+  killtime: 1684110204
+  log_id: 1350336
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 221
+  resurrects_fight: 1
+  rid: 2
+  wipes: 0
+- deahts_total: 147
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 561682
+  guilddata:
+    faction: 1
+    leadername: Memarox
+    name: Salt
+  guildid: 21
+  guildrid: 2
+  item_count: 4
+  killtime: 1683444062
+  log_id: 1338316
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 222
+  resurrects_fight: 1
+  rid: 2
+  wipes: 14
+- deahts_total: 12
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 561808
+  guilddata:
+    faction: 1
+    leadername: Tolkien
+    name: Fusion
+  guildid: 83
+  guildrid: 2
+  item_count: 4
+  killtime: 1681671280
+  log_id: 1301606
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 223
+  resurrects_fight: 2
+  rid: 2
+  wipes: 1
+- deahts_total: 110
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 561936
+  guilddata:
+    faction: 1
+    leadername: Magblast
+    name: R I S E
+  guildid: 108
+  guildrid: 2
+  item_count: 4
+  killtime: 1682023742
+  log_id: 1309203
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 224
+  resurrects_fight: 0
+  rid: 2
+  wipes: 11
+- deahts_total: 27
+  deaths_fight: 6
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 561963
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1689125262
+  log_id: 1417627
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 225
+  resurrects_fight: 1
+  rid: 2
+  wipes: 2
+- deahts_total: 12
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 562384
+  guilddata:
+    faction: 0
+    leadername: Lorellai
+    name: Khazar Milkers
+  guildid: 3490
+  guildrid: 2
+  item_count: 4
+  killtime: 1691275567
+  log_id: 1444162
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 226
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 184
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 563509
+  guilddata:
+    faction: 1
+    leadername: Murallhinda
+    name: Nemesis
+  guildid: 245
+  guildrid: 2
+  item_count: 4
+  killtime: 1682302711
+  log_id: 1315123
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 227
+  resurrects_fight: 0
+  rid: 2
+  wipes: 19
+- deahts_total: 58
+  deaths_fight: 6
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 564332
+  guilddata:
+    faction: 1
+    leadername: Murallhinda
+    name: Nemesis
+  guildid: 245
+  guildrid: 2
+  item_count: 4
+  killtime: 1684634445
+  log_id: 1360112
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 228
+  resurrects_fight: 0
+  rid: 2
+  wipes: 5
+- deahts_total: 23
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 565626
+  guilddata:
+    faction: 1
+    leadername: Kethaze
+    name: Temerity
+  guildid: 1008
+  guildrid: 2
+  item_count: 4
+  killtime: 1682546172
+  log_id: 1319925
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 229
+  resurrects_fight: 1
+  rid: 2
+  wipes: 2
+- deahts_total: 72
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 566724
+  guilddata:
+    faction: 1
+    leadername: Karin
+    name: Enrage
+  guildid: 2790
+  guildrid: 2
+  item_count: 4
+  killtime: 1695792289
+  log_id: 1498004
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 230
+  resurrects_fight: 1
+  rid: 2
+  wipes: 7
+- deahts_total: 178
+  deaths_fight: 5
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 568542
+  guilddata:
+    faction: 1
+    leadername: Zeroskill
+    name: The Inmortalls
+  guildid: 246
+  guildrid: 2
+  item_count: 4
+  killtime: 1685417580
+  log_id: 1371800
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 231
+  resurrects_fight: 1
+  rid: 2
+  wipes: 17
+- deahts_total: 43
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 568551
+  guilddata:
+    faction: 1
+    leadername: Kethaze
+    name: Temerity
+  guildid: 1008
+  guildrid: 2
+  item_count: 4
+  killtime: 1680217017
+  log_id: 1269761
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 232
+  resurrects_fight: 1
+  rid: 2
+  wipes: 4
+- deahts_total: 13
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 568820
+  guilddata:
+    faction: 1
+    leadername: Pixel
+    name: Warm
+  guildid: 160
+  guildrid: 2
+  item_count: 4
+  killtime: 1687481417
+  log_id: 1397439
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 233
+  resurrects_fight: 2
+  rid: 2
+  wipes: 1
+- deahts_total: 11
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 569520
+  guilddata:
+    faction: 1
+    leadername: Exidk
+    name: STEEP HILL
+  guildid: 14
+  guildrid: 2
+  item_count: 4
+  killtime: 1678484890
+  log_id: 1231115
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 234
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 100
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 569805
+  guilddata:
+    faction: 1
+    leadername: Rokellthee
+    name: Enter the Dream
+  guildid: 147
+  guildrid: 2
+  item_count: 4
+  killtime: 1683576629
+  log_id: 1340443
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 235
+  resurrects_fight: 2
+  rid: 2
+  wipes: 10
+- deahts_total: 165
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 570516
+  guilddata:
+    faction: 1
+    leadername: Itszero
+    name: Just Fun
+  guildid: 3975
+  guildrid: 2
+  item_count: 4
+  killtime: 1683511111
+  log_id: 1339531
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 236
+  resurrects_fight: 0
+  rid: 2
+  wipes: 17
+- deahts_total: 16
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 575125
+  guilddata:
+    faction: 1
+    leadername: Lerusichka
+    name: Hordes Way
+  guildid: 249
+  guildrid: 2
+  item_count: 4
+  killtime: 1682269668
+  log_id: 1314246
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 237
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 194
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 575827
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1685302027
+  log_id: 1370270
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 238
+  resurrects_fight: 1
+  rid: 2
+  wipes: 19
+- deahts_total: 184
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 577380
+  guilddata:
+    faction: 1
+    leadername: Waz
+    name: Endless
+  guildid: 20
+  guildrid: 2
+  item_count: 4
+  killtime: 1676510695
+  log_id: 1188131
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 239
+  resurrects_fight: 0
+  rid: 2
+  wipes: 18
+- deahts_total: 13
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 577642
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1686928354
+  log_id: 1390371
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 240
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 40
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 577785
+  guilddata:
+    faction: 1
+    leadername: Tolkien
+    name: Fusion
+  guildid: 83
+  guildrid: 2
+  item_count: 4
+  killtime: 1680463141
+  log_id: 1275124
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 241
+  resurrects_fight: 1
+  rid: 2
+  wipes: 4
+- deahts_total: 124
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 579187
+  guilddata:
+    faction: 1
+    leadername: Pixel
+    name: Warm
+  guildid: 160
+  guildrid: 2
+  item_count: 4
+  killtime: 1686358180
+  log_id: 1383627
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 242
+  resurrects_fight: 1
+  rid: 2
+  wipes: 12
+- deahts_total: 183
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 579323
+  guilddata:
+    faction: 1
+    leadername: Pixel
+    name: Warm
+  guildid: 160
+  guildrid: 2
+  item_count: 4
+  killtime: 1687132819
+  log_id: 1393155
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 243
+  resurrects_fight: 1
+  rid: 2
+  wipes: 18
+- deahts_total: 48
+  deaths_fight: 5
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 579324
+  guilddata:
+    faction: 1
+    leadername: Tolkien
+    name: Fusion
+  guildid: 83
+  guildrid: 2
+  item_count: 4
+  killtime: 1684093671
+  log_id: 1349873
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 244
+  resurrects_fight: 3
+  rid: 2
+  wipes: 4
+- deahts_total: 216
+  deaths_fight: 10
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 582124
+  guilddata:
+    faction: 0
+    leadername: Jeri
+    name: Time
+  guildid: 2109
+  guildrid: 2
+  item_count: 4
+  killtime: 1683493527
+  log_id: 1339123
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 245
+  resurrects_fight: 2
+  rid: 2
+  wipes: 20
+- deahts_total: 83
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 582417
+  guilddata:
+    faction: 1
+    leadername: Tolkien
+    name: Fusion
+  guildid: 83
+  guildrid: 2
+  item_count: 4
+  killtime: 1679248915
+  log_id: 1248044
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 246
+  resurrects_fight: 3
+  rid: 2
+  wipes: 8
+- deahts_total: 239
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 582697
+  guilddata:
+    faction: 1
+    leadername: Rolun
+    name: Laundry Person
+  guildid: 452
+  guildrid: 2
+  item_count: 4
+  killtime: 1681058798
+  log_id: 1287868
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 247
+  resurrects_fight: 1
+  rid: 2
+  wipes: 24
+- deahts_total: 166
+  deaths_fight: 7
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 584803
+  guilddata:
+    faction: 0
+    leadername: Phoshot
+    name: Clutch
+  guildid: 972
+  guildrid: 2
+  item_count: 4
+  killtime: 1681164683
+  log_id: 1290178
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 248
+  resurrects_fight: 2
+  rid: 2
+  wipes: 15
+- deahts_total: 86
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 585211
+  guilddata:
+    faction: 1
+    leadername: Tolkien
+    name: Fusion
+  guildid: 83
+  guildrid: 2
+  item_count: 4
+  killtime: 1679941149
+  log_id: 1263516
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 249
+  resurrects_fight: 2
+  rid: 2
+  wipes: 8
+- deahts_total: 334
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 589687
+  guilddata:
+    faction: 1
+    leadername: Magblast
+    name: R I S E
+  guildid: 108
+  guildrid: 2
+  item_count: 4
+  killtime: 1681850566
+  log_id: 1305412
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 250
+  resurrects_fight: 2
+  rid: 2
+  wipes: 33
+- deahts_total: 180
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 594863
+  guilddata:
+    faction: 1
+    leadername: Ksta
+    name: Micro Perchiki
+  guildid: 2711
+  guildrid: 2
+  item_count: 4
+  killtime: 1679860212
+  log_id: 1262003
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 251
+  resurrects_fight: 1
+  rid: 2
+  wipes: 17
+- deahts_total: 51
+  deaths_fight: 8
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 595849
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1689537355
+  log_id: 1422857
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 252
+  resurrects_fight: 1
+  rid: 2
+  wipes: 4
+- deahts_total: 182
+  deaths_fight: 7
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 596555
+  guilddata:
+    faction: 0
+    leadername: Lorellai
+    name: Khazar Milkers
+  guildid: 3490
+  guildrid: 2
+  item_count: 4
+  killtime: 1685826348
+  log_id: 1377195
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 253
+  resurrects_fight: 2
+  rid: 2
+  wipes: 19
+- deahts_total: 85
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 597250
+  guilddata:
+    faction: 1
+    leadername: Pixel
+    name: Warm
+  guildid: 160
+  guildrid: 2
+  item_count: 4
+  killtime: 1685835289
+  log_id: 1377398
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 254
+  resurrects_fight: 1
+  rid: 2
+  wipes: 9
+- deahts_total: 199
+  deaths_fight: 7
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 602986
+  guilddata:
+    faction: 0
+    leadername: Magosex
+    name: Ylng Yang
+  guildid: 3602
+  guildrid: 2
+  item_count: 4
+  killtime: 1687235786
+  log_id: 1394346
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 255
+  resurrects_fight: 3
+  rid: 2
+  wipes: 19
+- deahts_total: 6
+  deaths_fight: 6
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 609268
+  guilddata:
+    faction: 1
+    leadername: Tolkien
+    name: Fusion
+  guildid: 83
+  guildrid: 2
+  item_count: 4
+  killtime: 1680811818
+  log_id: 1282383
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 256
+  resurrects_fight: 2
+  rid: 2
+  wipes: 0
+- deahts_total: 29
+  deaths_fight: 10
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 620176
+  guilddata:
+    faction: 1
+    leadername: Tolkien
+    name: Fusion
+  guildid: 83
+  guildrid: 2
+  item_count: 4
+  killtime: 1682278464
+  log_id: 1314560
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 257
+  resurrects_fight: 1
+  rid: 2
+  wipes: 2
+- deahts_total: 23
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 643303
+  guilddata:
+    faction: 1
+    leadername: Kethaze
+    name: Temerity
+  guildid: 1008
+  guildrid: 2
+  item_count: 4
+  killtime: 1687816531
+  log_id: 1401285
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 258
+  resurrects_fight: 1
+  rid: 2
+  wipes: 2
+- deahts_total: 4
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 643319
+  guilddata:
+    faction: 1
+    leadername: Kethaze
+    name: Temerity
+  guildid: 1008
+  guildrid: 2
+  item_count: 4
+  killtime: 1681336264
+  log_id: 1293771
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 259
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 0
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 650582
+  guilddata:
+    faction: 1
+    leadername: Kethaze
+    name: Temerity
+  guildid: 1008
+  guildrid: 2
+  item_count: 4
+  killtime: 1685483055
+  log_id: 1372470
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 260
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
+- deahts_total: 52
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 657171
+  guilddata:
+    faction: 1
+    leadername: Magblast
+    name: R I S E
+  guildid: 108
+  guildrid: 2
+  item_count: 4
+  killtime: 1683232410
+  log_id: 1334570
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 261
+  resurrects_fight: 1
+  rid: 2
+  wipes: 6
+- deahts_total: 84
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 661210
+  guilddata:
+    faction: 1
+    leadername: Exidk
+    name: STEEP HILL
+  guildid: 14
+  guildrid: 2
+  item_count: 4
+  killtime: 1677884001
+  log_id: 1218359
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 262
+  resurrects_fight: 2
+  rid: 2
+  wipes: 8
+- deahts_total: 13
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 662208
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1690724018
+  log_id: 1437283
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 263
+  resurrects_fight: 1
+  rid: 2
+  wipes: 1
+- deahts_total: 22
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 665711
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 4
+  killtime: 1683064605
+  log_id: 1330837
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 264
+  resurrects_fight: 1
+  rid: 2
+  wipes: 2
+- deahts_total: 36
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 666240
+  guilddata:
+    faction: 1
+    leadername: Kethaze
+    name: Temerity
+  guildid: 1008
+  guildrid: 2
+  item_count: 4
+  killtime: 1678999083
+  log_id: 1242417
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 265
+  resurrects_fight: 1
+  rid: 2
+  wipes: 3
+- deahts_total: 98
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 667959
+  guilddata:
+    faction: 1
+    leadername: Exidk
+    name: STEEP HILL
+  guildid: 14
+  guildrid: 2
+  item_count: 4
+  killtime: 1677358054
+  log_id: 1206309
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 266
+  resurrects_fight: 1
+  rid: 2
+  wipes: 10
+- deahts_total: 138
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 670608
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1685891488
+  log_id: 1378061
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 267
+  resurrects_fight: 1
+  rid: 2
+  wipes: 14
+- deahts_total: 2
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 673689
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 5
+  killtime: 1684260585
+  log_id: 1352800
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 268
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
+- deahts_total: 34
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 677195
+  guilddata:
+    faction: 1
+    leadername: Kethaze
+    name: Temerity
+  guildid: 1008
+  guildrid: 2
+  item_count: 4
+  killtime: 1679955960
+  log_id: 1263934
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 269
+  resurrects_fight: 2
+  rid: 2
+  wipes: 3
+- deahts_total: 162
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 677890
+  guilddata:
+    faction: 1
+    leadername: Demonqishi
+    name: Daddy Sky Guide
+  guildid: 1742
+  guildrid: 2
+  item_count: 4
+  killtime: 1684253556
+  log_id: 1352681
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 270
+  resurrects_fight: 0
+  rid: 2
+  wipes: 17
+- deahts_total: 73
+  deaths_fight: 2
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 684883
+  guilddata:
+    faction: 1
+    leadername: Viomonkas
+    name: Promise
+  guildid: 74
+  guildrid: 2
+  item_count: 4
+  killtime: 1681242121
+  log_id: 1291633
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 271
+  resurrects_fight: 2
+  rid: 2
+  wipes: 7
+- deahts_total: 35
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 690770
+  guilddata:
+    faction: 1
+    leadername: Kethaze
+    name: Temerity
+  guildid: 1008
+  guildrid: 2
+  item_count: 4
+  killtime: 1681164078
+  log_id: 1290163
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 272
+  resurrects_fight: 2
+  rid: 2
+  wipes: 3
+- deahts_total: 68
+  deaths_fight: 5
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 692168
+  guilddata:
+    faction: 0
+    leadername: Treejtvx
+    name: Pieces
+  guildid: 2349
+  guildrid: 2
+  item_count: 4
+  killtime: 1694204832
+  log_id: 1479041
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 273
+  resurrects_fight: 3
+  rid: 2
+  wipes: 6
+- deahts_total: 110
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 713034
+  guilddata:
+    faction: 1
+    leadername: Keltra
+    name: Lost in Sauce
+  guildid: 870
+  guildrid: 2
+  item_count: 4
+  killtime: 1686515968
+  log_id: 1385501
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 274
+  resurrects_fight: 1
+  rid: 2
+  wipes: 10
+- deahts_total: 91
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 717360
+  guilddata:
+    faction: 1
+    leadername: Xhero
+    name: Zombie Pride
+  guildid: 46
+  guildrid: 2
+  item_count: 4
+  killtime: 1686497690
+  log_id: 1385225
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 275
+  resurrects_fight: 0
+  rid: 2
+  wipes: 9
+- deahts_total: 93
+  deaths_fight: 5
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 718190
+  guilddata:
+    faction: 1
+    leadername: Kethaze
+    name: Temerity
+  guildid: 1008
+  guildrid: 2
+  item_count: 4
+  killtime: 1678833413
+  log_id: 1238769
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 276
+  resurrects_fight: 2
+  rid: 2
+  wipes: 9
+- deahts_total: 225
+  deaths_fight: 3
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 744667
+  guilddata:
+    faction: 1
+    leadername: Kethaze
+    name: Temerity
+  guildid: 1008
+  guildrid: 2
+  item_count: 4
+  killtime: 1678228544
+  log_id: 1225742
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 277
+  resurrects_fight: 2
+  rid: 2
+  wipes: 22
+- deahts_total: 75
+  deaths_fight: 4
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_sorting: 3750
+  encounter_id: 1623
+  fight_time: 760495
+  guilddata:
+    faction: 1
+    leadername: Chibrealpha
+    name: Eternal Symphonia
+  guildid: 84
+  guildrid: 2
+  item_count: 4
+  killtime: 1682019966
+  log_id: 1309084
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  rank: 278
+  resurrects_fight: 1
+  rid: 2
+  wipes: 7

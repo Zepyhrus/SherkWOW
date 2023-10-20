@@ -3,4 +3,5 @@
 
 
 #
-*.yml
+cfg.yml
+cfg.s.yml

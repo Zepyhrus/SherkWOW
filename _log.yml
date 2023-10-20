@@ -1,0 +1,1282 @@
+deahts_total: 2
+deaths_fight: 2
+difficulty: 6
+encounter_data:
+  encounter_difficulty: 0
+  encounter_id: 1594
+  encounter_index: 1
+  encounter_map: 1136
+  encounter_name: Spoils of Pandaria
+  encounter_sorting: 1500
+encounter_id: 1594
+fight_time: 507223
+guilddata:
+  faction: 1
+  leadername: Demonqishi
+  name: Daddy Sky Guide
+guildid: 1742
+guildrid: 2
+item_count: 6
+items:
+- count: 1
+  itemid: 104594
+  random_prop: 0
+  random_suffix: 0
+- count: 1
+  itemid: 104600
+  random_prop: 0
+  random_suffix: 0
+- count: 1
+  itemid: 105582
+  random_prop: 0
+  random_suffix: 0
+- count: 1
+  itemid: 105595
+  random_prop: 0
+  random_suffix: 0
+- count: 1
+  itemid: 105596
+  random_prop: 0
+  random_suffix: 0
+- count: 1
+  itemid: 104589
+  random_prop: 0
+  random_suffix: 0
+killtime: 1697645813
+log_id: 1519485
+map_id: 1136
+mapentry:
+  expansion: 4
+  id: 1136
+  name: Siege of Orgrimmar
+  type: 2
+member_count: 25
+members:
+- absorb_done: 0
+  class: 9
+  dispells: 0
+  dmg_absorb: 1440653
+  dmg_done: 148289246
+  dmg_taken: 6116215
+  gender: 0
+  guid: 858115
+  heal_done: 1987853
+  heal_taken: 6510172
+  ilvl: 569
+  interrupts: 0
+  link: r=Mistblade&amp;n=Arphaics&amp;gn=Daddy Sky Guide
+  name: Arphaics
+  overheal: 9660191
+  race: 8
+  spec: 265
+  talents: Va!020100
+  trinket_0:
+    ench: {}
+    entry: 105422
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_07
+    ilevel: 572
+    name: Purified Bindings of Immerseus
+    originalicon: inv_jewelry_orgrimmarraid_trinket_07
+    originalname: Purified Bindings of Immerseus
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 105399
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_02
+    ilevel: 559
+    name: Black Blood of Y'Shaarj
+    originalicon: inv_jewelry_orgrimmarraid_trinket_02
+    originalname: Black Blood of Y'Shaarj
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 0
+  class: 3
+  dispells: 0
+  dmg_absorb: 256990
+  dmg_done: 138287347
+  dmg_taken: 2554476
+  gender: 0
+  guid: 306926
+  heal_done: 0
+  heal_taken: 2530720
+  ilvl: 578
+  interrupts: 0
+  link: r=Mistblade&amp;n=Babaozhai&amp;gn=Daddy Sky Guide
+  name: Babaozhai
+  overheal: 1747284
+  race: 8
+  spec: 255
+  talents: Yb!001212
+  trinket_0:
+    ench: {}
+    entry: 104531
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_08
+    ilevel: 566
+    name: Haromm's Talisman
+    originalicon: inv_jewelry_orgrimmarraid_trinket_08
+    originalname: Haromm's Talisman
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 105472
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_14
+    ilevel: 572
+    name: Assurance of Consequence
+    originalicon: inv_jewelry_orgrimmarraid_trinket_14
+    originalname: Assurance of Consequence
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 20546915
+  class: 5
+  dispells: 6
+  dmg_absorb: 36460
+  dmg_done: 42360893
+  dmg_taken: 3434431
+  gender: 1
+  guid: 342725
+  heal_done: 17341320
+  heal_taken: 3434431
+  ilvl: 582
+  interrupts: 0
+  link: r=Mistblade&amp;n=Jojojlms&amp;gn=Daddy Sky Guide
+  name: Jojojlms
+  overheal: 65612089
+  race: 10
+  spec: 256
+  talents: Xa!111202
+  trinket_0:
+    ench: {}
+    entry: 104478
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_09
+    ilevel: 566
+    name: Prismatic Prison of Pride
+    originalicon: inv_jewelry_orgrimmarraid_trinket_09
+    originalname: Prismatic Prison of Pride
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 104426
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_07
+    ilevel: 566
+    name: Purified Bindings of Immerseus
+    originalicon: inv_jewelry_orgrimmarraid_trinket_07
+    originalname: Purified Bindings of Immerseus
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 0
+  class: 1
+  dispells: 0
+  dmg_absorb: 494139
+  dmg_done: 115333039
+  dmg_taken: 1578806
+  gender: 0
+  guid: 206609
+  heal_done: 0
+  heal_taken: 1578806
+  ilvl: 574
+  interrupts: 0
+  link: r=Mistblade&amp;n=Highgarden&amp;gn=Daddy Sky Guide
+  name: Highgarden
+  overheal: 0
+  race: 10
+  spec: 71
+  talents: Za!110021
+  trinket_0:
+    ench: {}
+    entry: 95757
+    gems: []
+    guid: 0
+    icon: ability_warrior_rampage
+    ilevel: 502
+    name: Primordius' Talisman of Rage
+    originalicon: ability_warrior_rampage
+    originalname: Primordius' Talisman of Rage
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 104463
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_05
+    ilevel: 566
+    name: Fusion-Fire Core
+    originalicon: inv_jewelry_orgrimmarraid_trinket_05
+    originalname: Fusion-Fire Core
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 0
+  class: 1
+  dispells: 0
+  dmg_absorb: 1083821
+  dmg_done: 113051704
+  dmg_taken: 3077235
+  gender: 1
+  guid: 913577
+  heal_done: 0
+  heal_taken: 3077235
+  ilvl: 578
+  interrupts: 1
+  link: r=Mistblade&amp;n=Springbreeze&amp;gn=Italian Motocycle CLub
+  name: Springbreeze
+  overheal: 0
+  race: 1
+  spec: 71
+  talents: Za!102022
+  trinket_0:
+    ench: {}
+    entry: 104613
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_03
+    ilevel: 566
+    name: Thok's Tail Tip
+    originalicon: inv_jewelry_orgrimmarraid_trinket_03
+    originalname: Thok's Tail Tip
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 105242
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_11
+    ilevel: 559
+    name: Evil Eye of Galakras
+    originalicon: inv_jewelry_orgrimmarraid_trinket_11
+    originalname: Evil Eye of Galakras
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 0
+  class: 8
+  dispells: 0
+  dmg_absorb: 338570
+  dmg_done: 117117147
+  dmg_taken: 3277343
+  gender: 1
+  guid: 903827
+  heal_done: 0
+  heal_taken: 3344534
+  ilvl: 582
+  interrupts: 0
+  link: r=Mistblade&amp;n=Alans&amp;gn=Daddy Sky Guide
+  name: Alans
+  overheal: 0
+  race: 10
+  spec: 63
+  talents: eZ!000110
+  trinket_0:
+    ench: {}
+    entry: 104544
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_13
+    ilevel: 566
+    name: Kardris' Toxic Totem
+    originalicon: inv_jewelry_orgrimmarraid_trinket_13
+    originalname: Kardris' Toxic Totem
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 104426
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_07
+    ilevel: 566
+    name: Purified Bindings of Immerseus
+    originalicon: inv_jewelry_orgrimmarraid_trinket_07
+    originalname: Purified Bindings of Immerseus
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 0
+  class: 3
+  dispells: 0
+  dmg_absorb: 0
+  dmg_done: 129074827
+  dmg_taken: 7015327
+  gender: 1
+  guid: 926322
+  heal_done: 0
+  heal_taken: 7015327
+  ilvl: 576
+  interrupts: 0
+  link: r=Mistblade&amp;n=Huntursoul&amp;gn=Daddy Sky Guide
+  name: Huntursoul
+  overheal: 44787
+  race: 10
+  spec: 253
+  talents: Ya!011112
+  trinket_0:
+    ench: {}
+    entry: 102292
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_14
+    ilevel: 553
+    name: Assurance of Consequence
+    originalicon: inv_jewelry_orgrimmarraid_trinket_14
+    originalname: Assurance of Consequence
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 104616
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_17
+    ilevel: 566
+    name: Ticking Ebon Detonator
+    originalicon: inv_jewelry_orgrimmarraid_trinket_17
+    originalname: Ticking Ebon Detonator
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 0
+  class: 3
+  dispells: 0
+  dmg_absorb: 0
+  dmg_done: 113208811
+  dmg_taken: 6599508
+  gender: 0
+  guid: 703824
+  heal_done: 159435
+  heal_taken: 6599508
+  ilvl: 573
+  interrupts: 0
+  link: r=Mistblade&amp;n=Mcreddy&amp;gn=Daddy Sky Guide
+  name: Mcreddy
+  overheal: 0
+  race: 2
+  spec: 255
+  talents: Yb!211210
+  trinket_0:
+    ench: {}
+    entry: 105331
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_04
+    ilevel: 559
+    name: Sigil of Rampage
+    originalicon: inv_jewelry_orgrimmarraid_trinket_04
+    originalname: Sigil of Rampage
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 104476
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_14
+    ilevel: 566
+    name: Assurance of Consequence
+    originalicon: inv_jewelry_orgrimmarraid_trinket_14
+    originalname: Assurance of Consequence
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 0
+  class: 4
+  dispells: 0
+  dmg_absorb: 0
+  dmg_done: 178442808
+  dmg_taken: 9415933
+  gender: 1
+  guid: 519247
+  heal_done: 0
+  heal_taken: 8142153
+  ilvl: 580
+  interrupts: 2
+  link: r=Mistblade&amp;n=Easylove&amp;gn=Daddy Sky Guide
+  name: Easylove
+  overheal: 0
+  race: 8
+  spec: 260
+  talents: cZ!222102
+  trinket_0:
+    ench: {}
+    entry: 104531
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_08
+    ilevel: 566
+    name: Haromm's Talisman
+    originalicon: inv_jewelry_orgrimmarraid_trinket_08
+    originalname: Haromm's Talisman
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 104476
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_14
+    ilevel: 566
+    name: Assurance of Consequence
+    originalicon: inv_jewelry_orgrimmarraid_trinket_14
+    originalname: Assurance of Consequence
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 0
+  class: 11
+  dispells: 1
+  dmg_absorb: 66203
+  dmg_done: 55
+  dmg_taken: 3395966
+  gender: 1
+  guid: 944728
+  heal_done: 27939567
+  heal_taken: 3416095
+  ilvl: 571
+  interrupts: 0
+  link: r=Mistblade&amp;n=Qige&amp;gn=Daddy Sky Guide
+  name: Qige
+  overheal: 118559940
+  race: 8
+  spec: 105
+  talents: UY!102012
+  trinket_0:
+    ench: {}
+    entry: 102299
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_09
+    ilevel: 553
+    name: Prismatic Prison of Pride
+    originalicon: inv_jewelry_orgrimmarraid_trinket_09
+    originalname: Prismatic Prison of Pride
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 105358
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_01
+    ilevel: 559
+    name: Thok's Acid-Grooved Tooth
+    originalicon: inv_jewelry_orgrimmarraid_trinket_01
+    originalname: Thok's Acid-Grooved Tooth
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 0
+  class: 4
+  dispells: 0
+  dmg_absorb: 0
+  dmg_done: 132266243
+  dmg_taken: 4040596
+  gender: 1
+  guid: 934890
+  heal_done: 0
+  heal_taken: 3041865
+  ilvl: 583
+  interrupts: 0
+  link: r=Mistblade&amp;n=Xiaopaopao&amp;gn=Daddy Sky Guide
+  name: Xiaopaopao
+  overheal: 0
+  race: 10
+  spec: 260
+  talents: cZ!222212
+  trinket_0:
+    ench: {}
+    entry: 104531
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_08
+    ilevel: 566
+    name: Haromm's Talisman
+    originalicon: inv_jewelry_orgrimmarraid_trinket_08
+    originalname: Haromm's Talisman
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 104476
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_14
+    ilevel: 566
+    name: Assurance of Consequence
+    originalicon: inv_jewelry_orgrimmarraid_trinket_14
+    originalname: Assurance of Consequence
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 0
+  class: 3
+  dispells: 0
+  dmg_absorb: 235448
+  dmg_done: 150716590
+  dmg_taken: 2853020
+  gender: 1
+  guid: 978131
+  heal_done: 12475
+  heal_taken: 2853020
+  ilvl: 581
+  interrupts: 0
+  link: r=Mistblade&amp;n=Haohomie&amp;gn=Daddy Sky Guide
+  name: Haohomie
+  overheal: 288227
+  race: 2
+  spec: 255
+  talents: Yb!201210
+  trinket_0:
+    ench: {}
+    entry: 102311
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_17
+    ilevel: 553
+    name: Ticking Ebon Detonator
+    originalicon: inv_jewelry_orgrimmarraid_trinket_17
+    originalname: Ticking Ebon Detonator
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 104476
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_14
+    ilevel: 566
+    name: Assurance of Consequence
+    originalicon: inv_jewelry_orgrimmarraid_trinket_14
+    originalname: Assurance of Consequence
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 2403531
+  class: 7
+  dispells: 6
+  dmg_absorb: 0
+  dmg_done: 23888210
+  dmg_taken: 8134298
+  gender: 0
+  guid: 980272
+  heal_done: 57034779
+  heal_taken: 8067649
+  ilvl: 572
+  interrupts: 0
+  link: r=Mistblade&amp;n=Dianliao&amp;gn=Daddy Sky Guide
+  name: Dianliao
+  overheal: 138593405
+  race: 8
+  spec: 264
+  talents: Wb!001010
+  trinket_0:
+    ench: {}
+    entry: 102294
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_18
+    ilevel: 553
+    name: Nazgrim's Burnished Insignia
+    originalicon: inv_jewelry_orgrimmarraid_trinket_18
+    originalname: Nazgrim's Burnished Insignia
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 102304
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_01
+    ilevel: 553
+    name: Thok's Acid-Grooved Tooth
+    originalicon: inv_jewelry_orgrimmarraid_trinket_01
+    originalname: Thok's Acid-Grooved Tooth
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 0
+  class: 7
+  dispells: 0
+  dmg_absorb: 134200
+  dmg_done: 115595624
+  dmg_taken: 4433194
+  gender: 0
+  guid: 980352
+  heal_done: 1565778
+  heal_taken: 4485078
+  ilvl: 574
+  interrupts: 0
+  link: r=Mistblade&amp;n=Papadalian&amp;gn=Daddy Sky Guide
+  name: Papadalian
+  overheal: 5167362
+  race: 6
+  spec: 262
+  talents: Wa!221210
+  trinket_0:
+    ench: {}
+    entry: 104426
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_07
+    ilevel: 566
+    name: Purified Bindings of Immerseus
+    originalicon: inv_jewelry_orgrimmarraid_trinket_07
+    originalname: Purified Bindings of Immerseus
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 104544
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_13
+    ilevel: 566
+    name: Kardris' Toxic Totem
+    originalicon: inv_jewelry_orgrimmarraid_trinket_13
+    originalname: Kardris' Toxic Totem
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 422200
+  class: 10
+  dispells: 8
+  dmg_absorb: 0
+  dmg_done: 33600471
+  dmg_taken: 6278650
+  gender: 1
+  guid: 990707
+  heal_done: 40651196
+  heal_taken: 6331808
+  ilvl: 572
+  interrupts: 0
+  link: r=Mistblade&amp;n=Monkinmist&amp;gn=Daddy Sky Guide
+  name: Monkinmist
+  overheal: 97233174
+  race: 26
+  spec: 270
+  talents: fZ!222200
+  trinket_0:
+    ench: {}
+    entry: 102299
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_09
+    ilevel: 553
+    name: Prismatic Prison of Pride
+    originalicon: inv_jewelry_orgrimmarraid_trinket_09
+    originalname: Prismatic Prison of Pride
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 105549
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_18
+    ilevel: 572
+    name: Nazgrim's Burnished Insignia
+    originalicon: inv_jewelry_orgrimmarraid_trinket_18
+    originalname: Nazgrim's Burnished Insignia
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 0
+  class: 11
+  dispells: 0
+  dmg_absorb: 3671510
+  dmg_done: 213367602
+  dmg_taken: 30504797
+  gender: 0
+  guid: 993343
+  heal_done: 9864459
+  heal_taken: 30504797
+  ilvl: 575
+  interrupts: 0
+  link: r=Mistblade&amp;n=Vitolios&amp;gn=Daddy Sky Guide
+  name: Vitolios
+  overheal: 5858265
+  race: 6
+  spec: 104
+  talents: Ub!102112
+  trinket_0:
+    ench: {}
+    entry: 102311
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_17
+    ilevel: 553
+    name: Ticking Ebon Detonator
+    originalicon: inv_jewelry_orgrimmarraid_trinket_17
+    originalname: Ticking Ebon Detonator
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 102306
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_10
+    ilevel: 553
+    name: Vial of Living Corruption
+    originalicon: inv_jewelry_orgrimmarraid_trinket_10
+    originalname: Vial of Living Corruption
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 0
+  class: 3
+  dispells: 0
+  dmg_absorb: 454695
+  dmg_done: 106666040
+  dmg_taken: 2656976
+  gender: 0
+  guid: 1013362
+  heal_done: 39352
+  heal_taken: 2656976
+  ilvl: 569
+  interrupts: 0
+  link: r=Mistblade&amp;n=Luckydog&amp;gn=Daddy Sky Guide
+  name: Luckydog
+  overheal: 78704
+  race: 2
+  spec: 255
+  talents: Yb!201210
+  trinket_0:
+    ench: {}
+    entry: 102302
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_04
+    ilevel: 553
+    name: Sigil of Rampage
+    originalicon: inv_jewelry_orgrimmarraid_trinket_04
+    originalname: Sigil of Rampage
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 104476
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_14
+    ilevel: 566
+    name: Assurance of Consequence
+    originalicon: inv_jewelry_orgrimmarraid_trinket_14
+    originalname: Assurance of Consequence
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 0
+  class: 8
+  dispells: 0
+  dmg_absorb: 0
+  dmg_done: 141711155
+  dmg_taken: 7716752
+  gender: 1
+  guid: 1016390
+  heal_done: 380464
+  heal_taken: 7716752
+  ilvl: 574
+  interrupts: 0
+  link: r=Mistblade&amp;n=Wanme&amp;gn=Daddy Sky Guide
+  name: Wanme
+  overheal: 3461369
+  race: 9
+  spec: 64
+  talents: eb!100110
+  trinket_0:
+    ench: {}
+    entry: 105399
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_02
+    ilevel: 559
+    name: Black Blood of Y'Shaarj
+    originalicon: inv_jewelry_orgrimmarraid_trinket_02
+    originalname: Black Blood of Y'Shaarj
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 104426
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_07
+    ilevel: 566
+    name: Purified Bindings of Immerseus
+    originalicon: inv_jewelry_orgrimmarraid_trinket_07
+    originalname: Purified Bindings of Immerseus
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 0
+  class: 4
+  dispells: 0
+  dmg_absorb: 536266
+  dmg_done: 115423806
+  dmg_taken: 2573365
+  gender: 0
+  guid: 1037989
+  heal_done: 0
+  heal_taken: 2573365
+  ilvl: 565
+  interrupts: 0
+  link: r=Mistblade&amp;n=Ikundaozei&amp;gn=Daddy Sky Guide
+  name: Ikundaozei
+  overheal: 0
+  race: 9
+  spec: 260
+  talents: cZ!122002
+  trinket_0:
+    ench: {}
+    entry: 102301
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_08
+    ilevel: 553
+    name: Haromm's Talisman
+    originalicon: inv_jewelry_orgrimmarraid_trinket_08
+    originalname: Haromm's Talisman
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 102292
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_14
+    ilevel: 553
+    name: Assurance of Consequence
+    originalicon: inv_jewelry_orgrimmarraid_trinket_14
+    originalname: Assurance of Consequence
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 0
+  class: 3
+  dispells: 0
+  dmg_absorb: 0
+  dmg_done: 105387656
+  dmg_taken: 8156911
+  gender: 0
+  guid: 1031893
+  heal_done: 132212
+  heal_taken: 8122888
+  ilvl: 568
+  interrupts: 1
+  link: r=Mistblade&amp;n=Juanfenglong&amp;gn=Daddy Sky Guide
+  name: Juanfenglong
+  overheal: 38403
+  race: 2
+  spec: 253
+  talents: Ya!001112
+  trinket_0:
+    ench: {}
+    entry: 102292
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_14
+    ilevel: 553
+    name: Assurance of Consequence
+    originalicon: inv_jewelry_orgrimmarraid_trinket_14
+    originalname: Assurance of Consequence
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 105363
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_17
+    ilevel: 559
+    name: Ticking Ebon Detonator
+    originalicon: inv_jewelry_orgrimmarraid_trinket_17
+    originalname: Ticking Ebon Detonator
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 0
+  class: 8
+  dispells: 0
+  dmg_absorb: 0
+  dmg_done: 151732223
+  dmg_taken: 7580997
+  gender: 1
+  guid: 1047814
+  heal_done: 0
+  heal_taken: 7588697
+  ilvl: 584
+  interrupts: 0
+  link: r=Mistblade&amp;n=Vvwu&amp;gn=Daddy Sky Guide
+  name: Vvwu
+  overheal: 4855043
+  race: 26
+  spec: 62
+  talents: ea!200201
+  trinket_0:
+    ench: {}
+    entry: 104652
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_02
+    ilevel: 566
+    name: Black Blood of Y'Shaarj
+    originalicon: inv_jewelry_orgrimmarraid_trinket_02
+    originalname: Black Blood of Y'Shaarj
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 104426
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_07
+    ilevel: 566
+    name: Purified Bindings of Immerseus
+    originalicon: inv_jewelry_orgrimmarraid_trinket_07
+    originalname: Purified Bindings of Immerseus
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 0
+  class: 4
+  dispells: 0
+  dmg_absorb: 668897
+  dmg_done: 150455693
+  dmg_taken: 2599478
+  gender: 0
+  guid: 1048686
+  heal_done: 0
+  heal_taken: 2540078
+  ilvl: 572
+  interrupts: 0
+  link: r=Mistblade&amp;n=Xiongbatian&amp;gn=Daddy Sky Guide
+  name: Xiongbatian
+  overheal: 56472
+  race: 26
+  spec: 260
+  talents: cZ!222222
+  trinket_0:
+    ench: {}
+    entry: 102301
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_08
+    ilevel: 553
+    name: Haromm's Talisman
+    originalicon: inv_jewelry_orgrimmarraid_trinket_08
+    originalname: Haromm's Talisman
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 105472
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_14
+    ilevel: 572
+    name: Assurance of Consequence
+    originalicon: inv_jewelry_orgrimmarraid_trinket_14
+    originalname: Assurance of Consequence
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 0
+  class: 1
+  dispells: 0
+  dmg_absorb: 0
+  dmg_done: 160889659
+  dmg_taken: 7306217
+  gender: 0
+  guid: 1050028
+  heal_done: 0
+  heal_taken: 7306217
+  ilvl: 567
+  interrupts: 0
+  link: r=Mistblade&amp;n=Damaoj&amp;gn=Daddy Sky Guide
+  name: Damaoj
+  overheal: 0
+  race: 6
+  spec: 71
+  talents: Za!102021
+  trinket_0:
+    ench: {}
+    entry: 104495
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_11
+    ilevel: 566
+    name: Evil Eye of Galakras
+    originalicon: inv_jewelry_orgrimmarraid_trinket_11
+    originalname: Evil Eye of Galakras
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 102305
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_03
+    ilevel: 553
+    name: Thok's Tail Tip
+    originalicon: inv_jewelry_orgrimmarraid_trinket_03
+    originalname: Thok's Tail Tip
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 0
+  class: 8
+  dispells: 0
+  dmg_absorb: 448304
+  dmg_done: 160068292
+  dmg_taken: 2966841
+  gender: 1
+  guid: 1062955
+  heal_done: 0
+  heal_taken: 2935752
+  ilvl: 567
+  interrupts: 0
+  link: r=Mistblade&amp;n=Sereine&amp;gn=Daddy Sky Guide
+  name: Sereine
+  overheal: 0
+  race: 8
+  spec: 64
+  talents: eb!200010
+  trinket_0:
+    ench: {}
+    entry: 104544
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_13
+    ilevel: 566
+    name: Kardris' Toxic Totem
+    originalicon: inv_jewelry_orgrimmarraid_trinket_13
+    originalname: Kardris' Toxic Totem
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 105173
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_07
+    ilevel: 559
+    name: Purified Bindings of Immerseus
+    originalicon: inv_jewelry_orgrimmarraid_trinket_07
+    originalname: Purified Bindings of Immerseus
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+- absorb_done: 5351742
+  class: 6
+  dispells: 0
+  dmg_absorb: 5188284
+  dmg_done: 168733077
+  dmg_taken: 14988930
+  gender: 0
+  guid: 1063598
+  heal_done: 3697672
+  heal_taken: 14988931
+  ilvl: 575
+  interrupts: 0
+  link: r=Mistblade&amp;n=Crazyjj&amp;gn=Italian Motocycle CLub
+  name: Crazyjj
+  overheal: 59779626
+  race: 1
+  spec: 250
+  talents: da!001000
+  trinket_0:
+    ench: {}
+    entry: 102296
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_20
+    ilevel: 553
+    name: Rook's Unlucky Talisman
+    originalicon: inv_jewelry_orgrimmarraid_trinket_20
+    originalname: Rook's Unlucky Talisman
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  trinket_1:
+    ench: {}
+    entry: 102305
+    gems: []
+    guid: 0
+    icon: inv_jewelry_orgrimmarraid_trinket_03
+    ilevel: 553
+    name: Thok's Tail Tip
+    originalicon: inv_jewelry_orgrimmarraid_trinket_03
+    originalname: Thok's Tail Tip
+    rarity: 4
+    stackcount: 0
+    transmogid: 0
+    transmogitemicon: ''
+    transmogitemname: ''
+  valid_player: true
+resurrects_fight: 2
+rid: 2
+wipes: 0

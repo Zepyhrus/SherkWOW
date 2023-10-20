@@ -1,0 +1,1681 @@
+map_exp_0:
+- available_difficulties:
+  - id: 9
+    name: 40 Player
+  encounters: []
+  expansion: 0
+  id: 169
+  name: Emerald Dream
+  type: 2
+- available_difficulties:
+  - id: 3
+    name: 10 Player
+  - id: 4
+    name: 25 Player
+  encounters:
+  - encounter_difficulty: 0
+    encounter_id: 1084
+    encounter_index: 0
+    encounter_map: 249
+    encounter_name: Onyxia
+    encounter_order: 0
+  expansion: 0
+  id: 249
+  name: Onyxia's Lair
+  type: 2
+- available_difficulties:
+  - id: 9
+    name: 40 Player
+  encounters:
+  - encounter_difficulty: 3
+    encounter_id: 663
+    encounter_index: 0
+    encounter_map: 409
+    encounter_name: Lucifron
+    encounter_order: 0
+  - encounter_difficulty: 3
+    encounter_id: 664
+    encounter_index: 1
+    encounter_map: 409
+    encounter_name: Magmadar
+    encounter_order: 1000
+  - encounter_difficulty: 3
+    encounter_id: 665
+    encounter_index: 2
+    encounter_map: 409
+    encounter_name: Gehennas
+    encounter_order: 2000
+  - encounter_difficulty: 3
+    encounter_id: 666
+    encounter_index: 3
+    encounter_map: 409
+    encounter_name: Garr
+    encounter_order: 3000
+  - encounter_difficulty: 3
+    encounter_id: 667
+    encounter_index: 4
+    encounter_map: 409
+    encounter_name: Shazzrah
+    encounter_order: 4000
+  - encounter_difficulty: 3
+    encounter_id: 668
+    encounter_index: 5
+    encounter_map: 409
+    encounter_name: Baron Geddon
+    encounter_order: 5000
+  - encounter_difficulty: 3
+    encounter_id: 669
+    encounter_index: 6
+    encounter_map: 409
+    encounter_name: Sulfuron Harbinger
+    encounter_order: 6000
+  - encounter_difficulty: 3
+    encounter_id: 670
+    encounter_index: 7
+    encounter_map: 409
+    encounter_name: Golemagg the Incinerator
+    encounter_order: 7000
+  - encounter_difficulty: 3
+    encounter_id: 671
+    encounter_index: 8
+    encounter_map: 409
+    encounter_name: Majordomo Executus
+    encounter_order: 8000
+  - encounter_difficulty: 3
+    encounter_id: 672
+    encounter_index: 9
+    encounter_map: 409
+    encounter_name: Ragnaros
+    encounter_order: 9000
+  expansion: 0
+  id: 409
+  name: Molten Core
+  type: 2
+- available_difficulties:
+  - id: 9
+    name: 40 Player
+  encounters:
+  - encounter_difficulty: 3
+    encounter_id: 610
+    encounter_index: 0
+    encounter_map: 469
+    encounter_name: Razorgore the Untamed
+    encounter_order: 0
+  - encounter_difficulty: 3
+    encounter_id: 611
+    encounter_index: 1
+    encounter_map: 469
+    encounter_name: Vaelastrasz the Corrupt
+    encounter_order: 1000
+  - encounter_difficulty: 3
+    encounter_id: 612
+    encounter_index: 2
+    encounter_map: 469
+    encounter_name: Broodlord Lashlayer
+    encounter_order: 2000
+  - encounter_difficulty: 3
+    encounter_id: 613
+    encounter_index: 3
+    encounter_map: 469
+    encounter_name: Firemaw
+    encounter_order: 3000
+  - encounter_difficulty: 3
+    encounter_id: 614
+    encounter_index: 4
+    encounter_map: 469
+    encounter_name: Ebonroc
+    encounter_order: 4000
+  - encounter_difficulty: 3
+    encounter_id: 615
+    encounter_index: 5
+    encounter_map: 469
+    encounter_name: Flamegor
+    encounter_order: 5000
+  - encounter_difficulty: 3
+    encounter_id: 616
+    encounter_index: 6
+    encounter_map: 469
+    encounter_name: Chromaggus
+    encounter_order: 6000
+  - encounter_difficulty: 3
+    encounter_id: 617
+    encounter_index: 7
+    encounter_map: 469
+    encounter_name: Nefarian
+    encounter_order: 7000
+  expansion: 0
+  id: 469
+  name: Blackwing Lair
+  type: 2
+- available_difficulties:
+  - id: 3
+    name: 10 Player
+  encounters:
+  - encounter_difficulty: 3
+    encounter_id: 718
+    encounter_index: 0
+    encounter_map: 509
+    encounter_name: Kurinnaxx
+    encounter_order: 0
+  - encounter_difficulty: 3
+    encounter_id: 719
+    encounter_index: 1
+    encounter_map: 509
+    encounter_name: General Rajaxx
+    encounter_order: 1000
+  - encounter_difficulty: 3
+    encounter_id: 720
+    encounter_index: 2
+    encounter_map: 509
+    encounter_name: Moam
+    encounter_order: 2000
+  - encounter_difficulty: 3
+    encounter_id: 721
+    encounter_index: 3
+    encounter_map: 509
+    encounter_name: Buru the Gorger
+    encounter_order: 3000
+  - encounter_difficulty: 3
+    encounter_id: 722
+    encounter_index: 4
+    encounter_map: 509
+    encounter_name: Ayamiss the Hunter
+    encounter_order: 4000
+  - encounter_difficulty: 3
+    encounter_id: 723
+    encounter_index: 5
+    encounter_map: 509
+    encounter_name: Ossirian the Unscarred
+    encounter_order: 5000
+  expansion: 0
+  id: 509
+  name: Ruins of Ahn'Qiraj
+  type: 2
+- available_difficulties:
+  - id: 9
+    name: 40 Player
+  encounters:
+  - encounter_difficulty: 3
+    encounter_id: 709
+    encounter_index: 0
+    encounter_map: 531
+    encounter_name: The Prophet Skeram
+    encounter_order: 0
+  - encounter_difficulty: 3
+    encounter_id: 710
+    encounter_index: 1
+    encounter_map: 531
+    encounter_name: Silithid Royalty
+    encounter_order: 1000
+  - encounter_difficulty: 3
+    encounter_id: 711
+    encounter_index: 2
+    encounter_map: 531
+    encounter_name: Battleguard Sartura
+    encounter_order: 2000
+  - encounter_difficulty: 3
+    encounter_id: 712
+    encounter_index: 3
+    encounter_map: 531
+    encounter_name: Fankriss the Unyielding
+    encounter_order: 3000
+  - encounter_difficulty: 3
+    encounter_id: 713
+    encounter_index: 4
+    encounter_map: 531
+    encounter_name: Viscidus
+    encounter_order: 4000
+  - encounter_difficulty: 3
+    encounter_id: 714
+    encounter_index: 5
+    encounter_map: 531
+    encounter_name: Princess Huhuran
+    encounter_order: 5000
+  - encounter_difficulty: 3
+    encounter_id: 715
+    encounter_index: 6
+    encounter_map: 531
+    encounter_name: Twin Emperors
+    encounter_order: 6000
+  - encounter_difficulty: 3
+    encounter_id: 716
+    encounter_index: 7
+    encounter_map: 531
+    encounter_name: Ouro
+    encounter_order: 7000
+  - encounter_difficulty: 3
+    encounter_id: 717
+    encounter_index: 8
+    encounter_map: 531
+    encounter_name: C'thun
+    encounter_order: 8000
+  expansion: 0
+  id: 531
+  name: Ahn'Qiraj Temple
+  type: 2
+map_exp_1:
+- available_difficulties:
+  - id: 3
+    name: 10 Player
+  encounters:
+  - encounter_difficulty: 3
+    encounter_id: 652
+    encounter_index: 0
+    encounter_map: 532
+    encounter_name: Attumen the Huntsman
+    encounter_order: 0
+  - encounter_difficulty: 3
+    encounter_id: 653
+    encounter_index: 1
+    encounter_map: 532
+    encounter_name: Moroes
+    encounter_order: 1000
+  - encounter_difficulty: 3
+    encounter_id: 654
+    encounter_index: 2
+    encounter_map: 532
+    encounter_name: Maiden of the Virtue
+    encounter_order: 2000
+  - encounter_difficulty: 3
+    encounter_id: 655
+    encounter_index: 3
+    encounter_map: 532
+    encounter_name: Opera Event
+    encounter_order: 3000
+  - encounter_difficulty: 3
+    encounter_id: 656
+    encounter_index: 4
+    encounter_map: 532
+    encounter_name: The Curator
+    encounter_order: 4000
+  - encounter_difficulty: 3
+    encounter_id: 657
+    encounter_index: 5
+    encounter_map: 532
+    encounter_name: Terestian Illhoof
+    encounter_order: 5000
+  - encounter_difficulty: 3
+    encounter_id: 658
+    encounter_index: 6
+    encounter_map: 532
+    encounter_name: Shade of Aran
+    encounter_order: 6000
+  - encounter_difficulty: 3
+    encounter_id: 659
+    encounter_index: 7
+    encounter_map: 532
+    encounter_name: Netherspite
+    encounter_order: 7000
+  - encounter_difficulty: 3
+    encounter_id: 660
+    encounter_index: 8
+    encounter_map: 532
+    encounter_name: Chess Event
+    encounter_order: 8000
+  - encounter_difficulty: 3
+    encounter_id: 661
+    encounter_index: 9
+    encounter_map: 532
+    encounter_name: Prince Malchezaar
+    encounter_order: 9000
+  - encounter_difficulty: 3
+    encounter_id: 662
+    encounter_index: 10
+    encounter_map: 532
+    encounter_name: Nightbane
+    encounter_order: 10000
+  expansion: 1
+  id: 532
+  name: Karazhan
+  type: 2
+- available_difficulties:
+  - id: 4
+    name: 25 Player
+  encounters:
+  - encounter_difficulty: 3
+    encounter_id: 618
+    encounter_index: 0
+    encounter_map: 534
+    encounter_name: Rage Winterchill
+    encounter_order: 0
+  - encounter_difficulty: 3
+    encounter_id: 619
+    encounter_index: 1
+    encounter_map: 534
+    encounter_name: Anetheron
+    encounter_order: 1000
+  - encounter_difficulty: 3
+    encounter_id: 620
+    encounter_index: 2
+    encounter_map: 534
+    encounter_name: Kaz'rogal
+    encounter_order: 2000
+  - encounter_difficulty: 3
+    encounter_id: 621
+    encounter_index: 3
+    encounter_map: 534
+    encounter_name: Azgalor
+    encounter_order: 3000
+  - encounter_difficulty: 3
+    encounter_id: 622
+    encounter_index: 4
+    encounter_map: 534
+    encounter_name: Archimonde
+    encounter_order: 4000
+  expansion: 1
+  id: 534
+  name: The Battle for Mount Hyjal
+  type: 2
+- available_difficulties:
+  - id: 4
+    name: 25 Player
+  encounters:
+  - encounter_difficulty: 3
+    encounter_id: 651
+    encounter_index: 0
+    encounter_map: 544
+    encounter_name: Magtheridon
+    encounter_order: 0
+  expansion: 1
+  id: 544
+  name: Magtheridon's Lair
+  type: 2
+- available_difficulties:
+  - id: 4
+    name: 25 Player
+  encounters:
+  - encounter_difficulty: 3
+    encounter_id: 623
+    encounter_index: 0
+    encounter_map: 548
+    encounter_name: Hydross the Unstable
+    encounter_order: 0
+  - encounter_difficulty: 3
+    encounter_id: 624
+    encounter_index: 1
+    encounter_map: 548
+    encounter_name: The Lurker Below
+    encounter_order: 1000
+  - encounter_difficulty: 3
+    encounter_id: 625
+    encounter_index: 2
+    encounter_map: 548
+    encounter_name: Leotheras the Blind
+    encounter_order: 2000
+  - encounter_difficulty: 3
+    encounter_id: 626
+    encounter_index: 3
+    encounter_map: 548
+    encounter_name: Fathom-Lord Karathress
+    encounter_order: 3000
+  - encounter_difficulty: 3
+    encounter_id: 627
+    encounter_index: 4
+    encounter_map: 548
+    encounter_name: Morogrim Tidewalker
+    encounter_order: 4000
+  - encounter_difficulty: 3
+    encounter_id: 628
+    encounter_index: 5
+    encounter_map: 548
+    encounter_name: Lady Vashj
+    encounter_order: 5000
+  expansion: 1
+  id: 548
+  name: 'Coilfang: Serpentshrine Cavern'
+  type: 2
+- available_difficulties:
+  - id: 4
+    name: 25 Player
+  encounters:
+  - encounter_difficulty: 3
+    encounter_id: 730
+    encounter_index: 0
+    encounter_map: 550
+    encounter_name: Al'ar
+    encounter_order: 0
+  - encounter_difficulty: 3
+    encounter_id: 731
+    encounter_index: 1
+    encounter_map: 550
+    encounter_name: Void Reaver
+    encounter_order: 1000
+  - encounter_difficulty: 3
+    encounter_id: 732
+    encounter_index: 2
+    encounter_map: 550
+    encounter_name: High Astromancer Solarian
+    encounter_order: 2000
+  - encounter_difficulty: 3
+    encounter_id: 733
+    encounter_index: 3
+    encounter_map: 550
+    encounter_name: Kael'thas Sunstrider
+    encounter_order: 3000
+  expansion: 1
+  id: 550
+  name: Tempest Keep
+  type: 2
+- available_difficulties:
+  - id: 4
+    name: 25 Player
+  encounters:
+  - encounter_difficulty: 3
+    encounter_id: 601
+    encounter_index: 0
+    encounter_map: 564
+    encounter_name: High Warlord Naj'entus
+    encounter_order: 0
+  - encounter_difficulty: 3
+    encounter_id: 602
+    encounter_index: 1
+    encounter_map: 564
+    encounter_name: Supremus
+    encounter_order: 1000
+  - encounter_difficulty: 3
+    encounter_id: 603
+    encounter_index: 2
+    encounter_map: 564
+    encounter_name: Shade of Akama
+    encounter_order: 2000
+  - encounter_difficulty: 3
+    encounter_id: 604
+    encounter_index: 3
+    encounter_map: 564
+    encounter_name: Teron Gorefiend
+    encounter_order: 3000
+  - encounter_difficulty: 3
+    encounter_id: 605
+    encounter_index: 4
+    encounter_map: 564
+    encounter_name: Gurtogg Bloodboil
+    encounter_order: 4000
+  - encounter_difficulty: 3
+    encounter_id: 606
+    encounter_index: 5
+    encounter_map: 564
+    encounter_name: Reliquary of Souls
+    encounter_order: 5000
+  - encounter_difficulty: 3
+    encounter_id: 607
+    encounter_index: 6
+    encounter_map: 564
+    encounter_name: Mother Shahraz
+    encounter_order: 6000
+  - encounter_difficulty: 3
+    encounter_id: 608
+    encounter_index: 7
+    encounter_map: 564
+    encounter_name: The Illidari Council
+    encounter_order: 7000
+  - encounter_difficulty: 3
+    encounter_id: 609
+    encounter_index: 8
+    encounter_map: 564
+    encounter_name: Illidan Stormrage
+    encounter_order: 8000
+  expansion: 1
+  id: 564
+  name: Black Temple
+  type: 2
+- available_difficulties:
+  - id: 4
+    name: 25 Player
+  encounters:
+  - encounter_difficulty: 3
+    encounter_id: 649
+    encounter_index: 0
+    encounter_map: 565
+    encounter_name: High King Maulgar
+    encounter_order: 0
+  - encounter_difficulty: 3
+    encounter_id: 650
+    encounter_index: 1
+    encounter_map: 565
+    encounter_name: Gruul the Dragonkiller
+    encounter_order: 1000
+  expansion: 1
+  id: 565
+  name: Gruul's Lair
+  type: 2
+- available_difficulties:
+  - id: 4
+    name: 25 Player
+  encounters:
+  - encounter_difficulty: 3
+    encounter_id: 724
+    encounter_index: 0
+    encounter_map: 580
+    encounter_name: Kalecgos
+    encounter_order: 0
+  - encounter_difficulty: 3
+    encounter_id: 725
+    encounter_index: 1
+    encounter_map: 580
+    encounter_name: Brutallus
+    encounter_order: 1000
+  - encounter_difficulty: 3
+    encounter_id: 726
+    encounter_index: 2
+    encounter_map: 580
+    encounter_name: Felmyst
+    encounter_order: 2000
+  - encounter_difficulty: 3
+    encounter_id: 727
+    encounter_index: 3
+    encounter_map: 580
+    encounter_name: Eredar Twins
+    encounter_order: 3000
+  - encounter_difficulty: 3
+    encounter_id: 728
+    encounter_index: 4
+    encounter_map: 580
+    encounter_name: M'uru
+    encounter_order: 4000
+  - encounter_difficulty: 3
+    encounter_id: 729
+    encounter_index: 5
+    encounter_map: 580
+    encounter_name: Kil'jaeden
+    encounter_order: 5000
+  expansion: 1
+  id: 580
+  name: The Sunwell
+  type: 2
+map_exp_2:
+- available_difficulties:
+  - id: 3
+    name: 10 Player
+  - id: 4
+    name: 25 Player
+  encounters:
+  - encounter_difficulty: 0
+    encounter_id: 1107
+    encounter_index: 0
+    encounter_map: 533
+    encounter_name: Anub'Rekhan
+    encounter_order: 0
+  - encounter_difficulty: 0
+    encounter_id: 1110
+    encounter_index: 3
+    encounter_map: 533
+    encounter_name: Grand Widow Faerlina
+    encounter_order: 250
+  - encounter_difficulty: 0
+    encounter_id: 1116
+    encounter_index: 9
+    encounter_map: 533
+    encounter_name: Maexxna
+    encounter_order: 312
+  - encounter_difficulty: 0
+    encounter_id: 1117
+    encounter_index: 10
+    encounter_map: 533
+    encounter_name: Noth the Plaguebringer
+    encounter_order: 343
+  - encounter_difficulty: 0
+    encounter_id: 1112
+    encounter_index: 5
+    encounter_map: 533
+    encounter_name: Heigan the Unclean
+    encounter_order: 375
+  - encounter_difficulty: 0
+    encounter_id: 1115
+    encounter_index: 8
+    encounter_map: 533
+    encounter_name: Loatheb
+    encounter_order: 406
+  - encounter_difficulty: 0
+    encounter_id: 1113
+    encounter_index: 6
+    encounter_map: 533
+    encounter_name: Instructor Razuvious
+    encounter_order: 437
+  - encounter_difficulty: 0
+    encounter_id: 1109
+    encounter_index: 2
+    encounter_map: 533
+    encounter_name: Gothik the Harvester
+    encounter_order: 500
+  - encounter_difficulty: 0
+    encounter_id: 1121
+    encounter_index: 14
+    encounter_map: 533
+    encounter_name: The Four Horsemen
+    encounter_order: 562
+  - encounter_difficulty: 0
+    encounter_id: 1118
+    encounter_index: 11
+    encounter_map: 533
+    encounter_name: Patchwerk
+    encounter_order: 625
+  - encounter_difficulty: 0
+    encounter_id: 1111
+    encounter_index: 4
+    encounter_map: 533
+    encounter_name: Grobbulus
+    encounter_order: 750
+  - encounter_difficulty: 0
+    encounter_id: 1108
+    encounter_index: 1
+    encounter_map: 533
+    encounter_name: Gluth
+    encounter_order: 1000
+  - encounter_difficulty: 0
+    encounter_id: 1120
+    encounter_index: 13
+    encounter_map: 533
+    encounter_name: Thaddius
+    encounter_order: 1250
+  - encounter_difficulty: 0
+    encounter_id: 1119
+    encounter_index: 12
+    encounter_map: 533
+    encounter_name: Sapphiron
+    encounter_order: 1500
+  - encounter_difficulty: 0
+    encounter_id: 1114
+    encounter_index: 7
+    encounter_map: 533
+    encounter_name: Kel'Thuzad
+    encounter_order: 2000
+  expansion: 2
+  id: 533
+  name: Naxxramas
+  type: 2
+- available_difficulties:
+  - id: 3
+    name: 10 Player
+  - id: 4
+    name: 25 Player
+  encounters:
+  - encounter_difficulty: 0
+    encounter_id: 1132
+    encounter_index: 2
+    encounter_map: 603
+    encounter_name: Flame Leviathan
+    encounter_order: -2000
+  - encounter_difficulty: 0
+    encounter_id: 1136
+    encounter_index: 6
+    encounter_map: 603
+    encounter_name: Ignis the Furnace Master
+    encounter_order: -1500
+  - encounter_difficulty: 0
+    encounter_id: 1139
+    encounter_index: 9
+    encounter_map: 603
+    encounter_name: Razorscale
+    encounter_order: -1375
+  - encounter_difficulty: 0
+    encounter_id: 1142
+    encounter_index: 12
+    encounter_map: 603
+    encounter_name: XT-002 Deconstructor
+    encounter_order: -1343
+  - encounter_difficulty: 0
+    encounter_id: 1140
+    encounter_index: 10
+    encounter_map: 603
+    encounter_name: The Assembly of Iron
+    encounter_order: -1312
+  - encounter_difficulty: 0
+    encounter_id: 1137
+    encounter_index: 7
+    encounter_map: 603
+    encounter_name: Kologarn
+    encounter_order: -1250
+  - encounter_difficulty: 0
+    encounter_id: 1131
+    encounter_index: 1
+    encounter_map: 603
+    encounter_name: Auriaya
+    encounter_order: -1000
+  - encounter_difficulty: 0
+    encounter_id: 1135
+    encounter_index: 5
+    encounter_map: 603
+    encounter_name: Hodir
+    encounter_order: -750
+  - encounter_difficulty: 0
+    encounter_id: 1141
+    encounter_index: 11
+    encounter_map: 603
+    encounter_name: Thorim
+    encounter_order: -625
+  - encounter_difficulty: 0
+    encounter_id: 1164
+    encounter_index: 14
+    encounter_map: 603
+    encounter_name: Elder Brightleaf
+    encounter_order: -562
+  - encounter_difficulty: 0
+    encounter_id: 1165
+    encounter_index: 15
+    encounter_map: 603
+    encounter_name: Elder Ironbranch
+    encounter_order: -531
+  - encounter_difficulty: 0
+    encounter_id: 1166
+    encounter_index: 16
+    encounter_map: 603
+    encounter_name: Elder Stonebark
+    encounter_order: -515
+  - encounter_difficulty: 0
+    encounter_id: 1133
+    encounter_index: 3
+    encounter_map: 603
+    encounter_name: Freya
+    encounter_order: -500
+  - encounter_difficulty: 0
+    encounter_id: 1138
+    encounter_index: 8
+    encounter_map: 603
+    encounter_name: Mimiron
+    encounter_order: -375
+  - encounter_difficulty: 0
+    encounter_id: 1134
+    encounter_index: 4
+    encounter_map: 603
+    encounter_name: General Vezax
+    encounter_order: -250
+  - encounter_difficulty: 0
+    encounter_id: 1143
+    encounter_index: 13
+    encounter_map: 603
+    encounter_name: Yogg-Saron
+    encounter_order: -125
+  - encounter_difficulty: 0
+    encounter_id: 1130
+    encounter_index: 0
+    encounter_map: 603
+    encounter_name: Algalon the Observer
+    encounter_order: 0
+  expansion: 2
+  id: 603
+  name: Ulduar
+  type: 2
+- available_difficulties:
+  - id: 3
+    name: 10 Player
+  - id: 4
+    name: 25 Player
+  encounters:
+  - encounter_difficulty: 0
+    encounter_id: 1093
+    encounter_index: 3
+    encounter_map: 615
+    encounter_name: Vesperon
+    encounter_order: 0
+  - encounter_difficulty: 0
+    encounter_id: 1092
+    encounter_index: 2
+    encounter_map: 615
+    encounter_name: Tenebron
+    encounter_order: 2000
+  - encounter_difficulty: 0
+    encounter_id: 1091
+    encounter_index: 1
+    encounter_map: 615
+    encounter_name: Shadron
+    encounter_order: 3000
+  - encounter_difficulty: 0
+    encounter_id: 1090
+    encounter_index: 0
+    encounter_map: 615
+    encounter_name: Sartharion
+    encounter_order: 4000
+  expansion: 2
+  id: 615
+  name: The Obsidian Sanctum
+  type: 2
+- available_difficulties:
+  - id: 3
+    name: 10 Player
+  - id: 4
+    name: 25 Player
+  encounters:
+  - encounter_difficulty: 0
+    encounter_id: 1094
+    encounter_index: 0
+    encounter_map: 616
+    encounter_name: Malygos
+    encounter_order: 0
+  expansion: 2
+  id: 616
+  name: The Eye of Eternity
+  type: 2
+- available_difficulties:
+  - id: 3
+    name: 10 Player
+  - id: 4
+    name: 25 Player
+  encounters:
+  - encounter_difficulty: 0
+    encounter_id: 1126
+    encounter_index: 0
+    encounter_map: 624
+    encounter_name: Archavon the Stone Watcher
+    encounter_order: 0
+  - encounter_difficulty: 0
+    encounter_id: 1127
+    encounter_index: 1
+    encounter_map: 624
+    encounter_name: Emalon the Storm Watcher
+    encounter_order: 1000
+  - encounter_difficulty: 0
+    encounter_id: 1128
+    encounter_index: 2
+    encounter_map: 624
+    encounter_name: Koralon the Flame Watcher
+    encounter_order: 2000
+  - encounter_difficulty: 0
+    encounter_id: 1129
+    encounter_index: 3
+    encounter_map: 624
+    encounter_name: Toravon the Ice Watcher
+    encounter_order: 3000
+  expansion: 2
+  id: 624
+  name: Vault of Archavon
+  type: 2
+- available_difficulties:
+  - id: 3
+    name: 10 Player
+  - id: 4
+    name: 25 Player
+  - id: 5
+    name: 10 Player (Heroic)
+  - id: 6
+    name: 25 Player (Heroic)
+  encounters:
+  - encounter_difficulty: 0
+    encounter_id: 1101
+    encounter_index: 6
+    encounter_map: 631
+    encounter_name: Lord Marrowgar
+    encounter_order: 0
+  - encounter_difficulty: 0
+    encounter_id: 1100
+    encounter_index: 5
+    encounter_map: 631
+    encounter_name: Lady Deathwhisper
+    encounter_order: 1000
+  - encounter_difficulty: 0
+    encounter_id: 1099
+    encounter_index: 4
+    encounter_map: 631
+    encounter_name: Icecrown Gunship Battle
+    encounter_order: 2000
+  - encounter_difficulty: 0
+    encounter_id: 1096
+    encounter_index: 1
+    encounter_map: 631
+    encounter_name: Deathbringer Saurfang
+    encounter_order: 3000
+  - encounter_difficulty: 0
+    encounter_id: 1104
+    encounter_index: 9
+    encounter_map: 631
+    encounter_name: Rotface
+    encounter_order: 4000
+  - encounter_difficulty: 0
+    encounter_id: 1097
+    encounter_index: 2
+    encounter_map: 631
+    encounter_name: Festergut
+    encounter_order: 5000
+  - encounter_difficulty: 0
+    encounter_id: 1102
+    encounter_index: 7
+    encounter_map: 631
+    encounter_name: Professor Putricide
+    encounter_order: 6000
+  - encounter_difficulty: 0
+    encounter_id: 1095
+    encounter_index: 0
+    encounter_map: 631
+    encounter_name: Blood Council
+    encounter_order: 7000
+  - encounter_difficulty: 0
+    encounter_id: 1103
+    encounter_index: 8
+    encounter_map: 631
+    encounter_name: Queen Lana'thel
+    encounter_order: 9000
+  - encounter_difficulty: 0
+    encounter_id: 1098
+    encounter_index: 3
+    encounter_map: 631
+    encounter_name: Valithria Dreamwalker
+    encounter_order: 10000
+  - encounter_difficulty: 0
+    encounter_id: 1105
+    encounter_index: 10
+    encounter_map: 631
+    encounter_name: Sindragosa
+    encounter_order: 12000
+  - encounter_difficulty: 0
+    encounter_id: 1106
+    encounter_index: 11
+    encounter_map: 631
+    encounter_name: The Lich King
+    encounter_order: 14000
+  expansion: 2
+  id: 631
+  name: Icecrown Citadel
+  type: 2
+- available_difficulties:
+  - id: 3
+    name: 10 Player
+  - id: 4
+    name: 25 Player
+  - id: 5
+    name: 10 Player (Heroic)
+  - id: 6
+    name: 25 Player (Heroic)
+  encounters:
+  - encounter_difficulty: 0
+    encounter_id: 1088
+    encounter_index: 3
+    encounter_map: 649
+    encounter_name: Northrend Beasts
+    encounter_order: 0
+  - encounter_difficulty: 0
+    encounter_id: 1087
+    encounter_index: 2
+    encounter_map: 649
+    encounter_name: Lord Jaraxxus
+    encounter_order: 2000
+  - encounter_difficulty: 0
+    encounter_id: 1086
+    encounter_index: 1
+    encounter_map: 649
+    encounter_name: Faction Champions
+    encounter_order: 3000
+  - encounter_difficulty: 0
+    encounter_id: 1089
+    encounter_index: 4
+    encounter_map: 649
+    encounter_name: Val'kyr Twins
+    encounter_order: 4000
+  - encounter_difficulty: 0
+    encounter_id: 1085
+    encounter_index: 0
+    encounter_map: 649
+    encounter_name: Anub'arak
+    encounter_order: 5000
+  expansion: 2
+  id: 649
+  name: Trial of the Crusader
+  type: 2
+- available_difficulties:
+  - id: 3
+    name: 10 Player
+  - id: 4
+    name: 25 Player
+  - id: 5
+    name: 10 Player (Heroic)
+  - id: 6
+    name: 25 Player (Heroic)
+  encounters:
+  - encounter_difficulty: 0
+    encounter_id: 1147
+    encounter_index: 0
+    encounter_map: 724
+    encounter_name: Baltharus the Warborn
+    encounter_order: 0
+  - encounter_difficulty: 0
+    encounter_id: 1149
+    encounter_index: 2
+    encounter_map: 724
+    encounter_name: Saviana Ragefire
+    encounter_order: 500
+  - encounter_difficulty: 0
+    encounter_id: 1148
+    encounter_index: 1
+    encounter_map: 724
+    encounter_name: General Zarithrian
+    encounter_order: 1000
+  - encounter_difficulty: 0
+    encounter_id: 1150
+    encounter_index: 3
+    encounter_map: 724
+    encounter_name: Halion
+    encounter_order: 2000
+  expansion: 2
+  id: 724
+  name: The Ruby Sanctum
+  type: 2
+map_exp_3:
+- available_difficulties:
+  - id: 3
+    name: 10 Player
+  - id: 4
+    name: 25 Player
+  - id: 5
+    name: 10 Player (Heroic)
+  - id: 6
+    name: 25 Player (Heroic)
+  encounters:
+  - encounter_difficulty: 0
+    encounter_id: 1027
+    encounter_index: 5
+    encounter_map: 669
+    encounter_name: Omnotron Defense System
+    encounter_order: -1000
+  - encounter_difficulty: 0
+    encounter_id: 1024
+    encounter_index: 2
+    encounter_map: 669
+    encounter_name: Magmaw
+    encounter_order: -500
+  - encounter_difficulty: 0
+    encounter_id: 1022
+    encounter_index: 0
+    encounter_map: 669
+    encounter_name: Atramedes
+    encounter_order: 0
+  - encounter_difficulty: 0
+    encounter_id: 1023
+    encounter_index: 1
+    encounter_map: 669
+    encounter_name: Chimaeron
+    encounter_order: 1000
+  - encounter_difficulty: 0
+    encounter_id: 1025
+    encounter_index: 3
+    encounter_map: 669
+    encounter_name: Maloriak
+    encounter_order: 3000
+  - encounter_difficulty: 0
+    encounter_id: 1026
+    encounter_index: 4
+    encounter_map: 669
+    encounter_name: Nefarian's End
+    encounter_order: 4000
+  expansion: 3
+  id: 669
+  name: Blackwing Descent
+  type: 2
+- available_difficulties:
+  - id: 3
+    name: 10 Player
+  - id: 4
+    name: 25 Player
+  - id: 5
+    name: 10 Player (Heroic)
+  - id: 6
+    name: 25 Player (Heroic)
+  encounters:
+  - encounter_difficulty: 0
+    encounter_id: 1030
+    encounter_index: 2
+    encounter_map: 671
+    encounter_name: Halfus Wyrmbreaker
+    encounter_order: -1000
+  - encounter_difficulty: 0
+    encounter_id: 1032
+    encounter_index: 4
+    encounter_map: 671
+    encounter_name: Theralion and Valiona
+    encounter_order: 1500
+  - encounter_difficulty: 0
+    encounter_id: 1028
+    encounter_index: 0
+    encounter_map: 671
+    encounter_name: Ascendant Council
+    encounter_order: 2000
+  - encounter_difficulty: 0
+    encounter_id: 1029
+    encounter_index: 1
+    encounter_map: 671
+    encounter_name: Cho'gall
+    encounter_order: 2500
+  - encounter_difficulty: 5
+    encounter_id: 1082
+    encounter_index: 3
+    encounter_map: 671
+    encounter_name: Sinestra
+    encounter_order: 3500
+  - encounter_difficulty: 6
+    encounter_id: 1083
+    encounter_index: 3
+    encounter_map: 671
+    encounter_name: Sinestra
+    encounter_order: 3500
+  expansion: 3
+  id: 671
+  name: The Bastion of Twilight
+  type: 2
+- available_difficulties:
+  - id: 3
+    name: 10 Player
+  - id: 4
+    name: 25 Player
+  - id: 5
+    name: 10 Player (Heroic)
+  - id: 6
+    name: 25 Player (Heroic)
+  encounters:
+  - encounter_difficulty: 0
+    encounter_id: 1197
+    encounter_index: 1
+    encounter_map: 720
+    encounter_name: Beth'tilac
+    encounter_order: -4000
+  - encounter_difficulty: 0
+    encounter_id: 1204
+    encounter_index: 4
+    encounter_map: 720
+    encounter_name: Lord Rhyolith
+    encounter_order: -3000
+  - encounter_difficulty: 0
+    encounter_id: 1205
+    encounter_index: 5
+    encounter_map: 720
+    encounter_name: Shannox
+    encounter_order: -2375
+  - encounter_difficulty: 0
+    encounter_id: 1206
+    encounter_index: 6
+    encounter_map: 720
+    encounter_name: Alysrazor
+    encounter_order: -1750
+  - encounter_difficulty: 0
+    encounter_id: 1200
+    encounter_index: 2
+    encounter_map: 720
+    encounter_name: Baleroc
+    encounter_order: -1000
+  - encounter_difficulty: 0
+    encounter_id: 1185
+    encounter_index: 0
+    encounter_map: 720
+    encounter_name: Majordomo Staghelm
+    encounter_order: 0
+  - encounter_difficulty: 0
+    encounter_id: 1203
+    encounter_index: 3
+    encounter_map: 720
+    encounter_name: Ragnaros
+    encounter_order: 2000
+  expansion: 3
+  id: 720
+  name: Firelands
+  type: 2
+- available_difficulties:
+  - id: 3
+    name: 10 Player
+  - id: 4
+    name: 25 Player
+  - id: 5
+    name: 10 Player (Heroic)
+  - id: 6
+    name: 25 Player (Heroic)
+  encounters:
+  - encounter_difficulty: 0
+    encounter_id: 1035
+    encounter_index: 1
+    encounter_map: 754
+    encounter_name: Conclave of Wind
+    encounter_order: -1000
+  - encounter_difficulty: 0
+    encounter_id: 1034
+    encounter_index: 0
+    encounter_map: 754
+    encounter_name: Al'Akir
+    encounter_order: 0
+  expansion: 3
+  id: 754
+  name: Throne of the Four Winds
+  type: 2
+- available_difficulties:
+  - id: 3
+    name: 10 Player
+  - id: 4
+    name: 25 Player
+  - id: 5
+    name: 10 Player (Heroic)
+  - id: 6
+    name: 25 Player (Heroic)
+  encounters:
+  - encounter_difficulty: 0
+    encounter_id: 1033
+    encounter_index: 0
+    encounter_map: 757
+    encounter_name: Argaloth
+    encounter_order: 0
+  - encounter_difficulty: 0
+    encounter_id: 1250
+    encounter_index: 1
+    encounter_map: 757
+    encounter_name: Occu'thar
+    encounter_order: 1000
+  - encounter_difficulty: 0
+    encounter_id: 1332
+    encounter_index: 2
+    encounter_map: 757
+    encounter_name: Alizabal
+    encounter_order: 2000
+  expansion: 3
+  id: 757
+  name: Baradin Hold
+  type: 2
+- available_difficulties:
+  - id: 3
+    name: 10 Player
+  - id: 4
+    name: 25 Player
+  - id: 5
+    name: 10 Player (Heroic)
+  - id: 6
+    name: 25 Player (Heroic)
+  - id: 7
+    name: Looking For Raid
+  encounters:
+  - encounter_difficulty: 0
+    encounter_id: 1292
+    encounter_index: 1
+    encounter_map: 967
+    encounter_name: Morchok
+    encounter_order: -1000
+  - encounter_difficulty: 0
+    encounter_id: 1294
+    encounter_index: 2
+    encounter_map: 967
+    encounter_name: Warlord Zon'ozz
+    encounter_order: -500
+  - encounter_difficulty: 0
+    encounter_id: 1295
+    encounter_index: 3
+    encounter_map: 967
+    encounter_name: Yor'sahj the Unsleeping
+    encounter_order: -250
+  - encounter_difficulty: 0
+    encounter_id: 1296
+    encounter_index: 4
+    encounter_map: 967
+    encounter_name: Hagara
+    encounter_order: -125
+  - encounter_difficulty: 0
+    encounter_id: 1297
+    encounter_index: 5
+    encounter_map: 967
+    encounter_name: Ultraxion
+    encounter_order: -62
+  - encounter_difficulty: 0
+    encounter_id: 1298
+    encounter_index: 6
+    encounter_map: 967
+    encounter_name: Warmaster Blackhorn
+    encounter_order: -31
+  - encounter_difficulty: 0
+    encounter_id: 1291
+    encounter_index: 0
+    encounter_map: 967
+    encounter_name: Spine of Deathwing
+    encounter_order: 0
+  - encounter_difficulty: 0
+    encounter_id: 1299
+    encounter_index: 7
+    encounter_map: 967
+    encounter_name: Madness of Deathwing
+    encounter_order: 1000
+  expansion: 3
+  id: 967
+  name: Dragon Soul
+  type: 2
+map_exp_4:
+- available_difficulties:
+  - id: 5
+    name: 10 Player (Heroic)
+  - id: 6
+    name: 25 Player (Heroic)
+  - id: 3
+    name: 10 Player
+  - id: 4
+    name: 25 Player
+  - id: 7
+    name: Looking For Raid
+  encounters:
+  - encounter_difficulty: 0
+    encounter_id: 1409
+    encounter_index: 0
+    encounter_map: 996
+    encounter_name: Protectors of the Endless
+    encounter_order: 0
+  - encounter_difficulty: 0
+    encounter_id: 1505
+    encounter_index: 2
+    encounter_map: 996
+    encounter_name: Tsulong
+    encounter_order: 500
+  - encounter_difficulty: 0
+    encounter_id: 1506
+    encounter_index: 3
+    encounter_map: 996
+    encounter_name: Lei Shi
+    encounter_order: 750
+  - encounter_difficulty: 0
+    encounter_id: 1431
+    encounter_index: 1
+    encounter_map: 996
+    encounter_name: Sha of Fear
+    encounter_order: 1000
+  expansion: 4
+  id: 996
+  name: Terrace of Endless Spring
+  type: 2
+- available_difficulties:
+  - id: 3
+    name: 10 Player
+  - id: 4
+    name: 25 Player
+  - id: 5
+    name: 10 Player (Heroic)
+  - id: 6
+    name: 25 Player (Heroic)
+  - id: 7
+    name: Looking For Raid
+  encounters:
+  - encounter_difficulty: 0
+    encounter_id: 1395
+    encounter_index: 1
+    encounter_map: 1008
+    encounter_name: The Stone Guard
+    encounter_order: -1000
+  - encounter_difficulty: 0
+    encounter_id: 1390
+    encounter_index: 0
+    encounter_map: 1008
+    encounter_name: Feng the Accursed
+    encounter_order: 0
+  - encounter_difficulty: 0
+    encounter_id: 1434
+    encounter_index: 3
+    encounter_map: 1008
+    encounter_name: Gara'jal the Spiritbinder
+    encounter_order: 500
+  - encounter_difficulty: 0
+    encounter_id: 1436
+    encounter_index: 4
+    encounter_map: 1008
+    encounter_name: The Spirit Kings
+    encounter_order: 2000
+  - encounter_difficulty: 0
+    encounter_id: 1500
+    encounter_index: 5
+    encounter_map: 1008
+    encounter_name: Elegon
+    encounter_order: 2500
+  - encounter_difficulty: 0
+    encounter_id: 1407
+    encounter_index: 2
+    encounter_map: 1008
+    encounter_name: Will of the Emperor
+    encounter_order: 3000
+  expansion: 4
+  id: 1008
+  name: Mogu'shan Vaults
+  type: 2
+- available_difficulties:
+  - id: 3
+    name: 10 Player
+  - id: 4
+    name: 25 Player
+  - id: 5
+    name: 10 Player (Heroic)
+  - id: 6
+    name: 25 Player (Heroic)
+  - id: 7
+    name: Looking For Raid
+  encounters:
+  - encounter_difficulty: 0
+    encounter_id: 1507
+    encounter_index: 6
+    encounter_map: 1009
+    encounter_name: Imperial Vizier Zor'lok
+    encounter_order: -2500
+  - encounter_difficulty: 0
+    encounter_id: 1504
+    encounter_index: 5
+    encounter_map: 1009
+    encounter_name: Blade Lord Ta'yak
+    encounter_order: -1500
+  - encounter_difficulty: 0
+    encounter_id: 1463
+    encounter_index: 0
+    encounter_map: 1009
+    encounter_name: Garalon
+    encounter_order: -1250
+  - encounter_difficulty: 0
+    encounter_id: 1498
+    encounter_index: 1
+    encounter_map: 1009
+    encounter_name: Wind Lord Mel'jarak
+    encounter_order: -1000
+  - encounter_difficulty: 0
+    encounter_id: 1499
+    encounter_index: 2
+    encounter_map: 1009
+    encounter_name: Amber-Shaper Un'sok
+    encounter_order: 1000
+  - encounter_difficulty: 0
+    encounter_id: 1501
+    encounter_index: 3
+    encounter_map: 1009
+    encounter_name: Grand Empress Shek'zeer
+    encounter_order: 2000
+  expansion: 4
+  id: 1009
+  name: Heart of Fear
+  type: 2
+- available_difficulties:
+  - id: 3
+    name: 10 Player
+  - id: 4
+    name: 25 Player
+  - id: 5
+    name: 10 Player (Heroic)
+  - id: 6
+    name: 25 Player (Heroic)
+  - id: 7
+    name: Looking For Raid
+  encounters:
+  - encounter_difficulty: 0
+    encounter_id: 1577
+    encounter_index: 9
+    encounter_map: 1098
+    encounter_name: Jin'rokh the Breaker
+    encounter_order: -3000
+  - encounter_difficulty: 0
+    encounter_id: 1575
+    encounter_index: 7
+    encounter_map: 1098
+    encounter_name: Horridon
+    encounter_order: -2000
+  - encounter_difficulty: 0
+    encounter_id: 1570
+    encounter_index: 3
+    encounter_map: 1098
+    encounter_name: Council of Elders
+    encounter_order: -1500
+  - encounter_difficulty: 0
+    encounter_id: 1565
+    encounter_index: 2
+    encounter_map: 1098
+    encounter_name: Tortos
+    encounter_order: -1000
+  - encounter_difficulty: 0
+    encounter_id: 1578
+    encounter_index: 10
+    encounter_map: 1098
+    encounter_name: Megaera
+    encounter_order: -750
+  - encounter_difficulty: 0
+    encounter_id: 1573
+    encounter_index: 5
+    encounter_map: 1098
+    encounter_name: Ji-Kun
+    encounter_order: -500
+  - encounter_difficulty: 0
+    encounter_id: 1572
+    encounter_index: 4
+    encounter_map: 1098
+    encounter_name: Durumu the Forgotten
+    encounter_order: -250
+  - encounter_difficulty: 0
+    encounter_id: 1574
+    encounter_index: 6
+    encounter_map: 1098
+    encounter_name: Primordius
+    encounter_order: -125
+  - encounter_difficulty: 0
+    encounter_id: 1576
+    encounter_index: 8
+    encounter_map: 1098
+    encounter_name: Dark Animus
+    encounter_order: -62
+  - encounter_difficulty: 0
+    encounter_id: 1559
+    encounter_index: 0
+    encounter_map: 1098
+    encounter_name: Iron Qon
+    encounter_order: 0
+  - encounter_difficulty: 0
+    encounter_id: 1560
+    encounter_index: 1
+    encounter_map: 1098
+    encounter_name: Twin Consorts
+    encounter_order: 1000
+  - encounter_difficulty: 0
+    encounter_id: 1579
+    encounter_index: 11
+    encounter_map: 1098
+    encounter_name: Lei Shen
+    encounter_order: 2000
+  - encounter_difficulty: 5
+    encounter_id: 1580
+    encounter_index: 12
+    encounter_map: 1098
+    encounter_name: Ra-den
+    encounter_order: 3000
+  - encounter_difficulty: 6
+    encounter_id: 1581
+    encounter_index: 12
+    encounter_map: 1098
+    encounter_name: Ra-den
+    encounter_order: 3000
+  expansion: 4
+  id: 1098
+  name: Throne of Thunder
+  type: 2
+- available_difficulties:
+  - id: 3
+    name: 10 Player
+  - id: 4
+    name: 25 Player
+  - id: 5
+    name: 10 Player (Heroic)
+  - id: 6
+    name: 25 Player (Heroic)
+  - id: 7
+    name: Looking For Raid
+  - id: 14
+    name: Flexible
+  encounters:
+  - encounter_difficulty: 0
+    encounter_id: 1602
+    encounter_index: 7
+    encounter_map: 1136
+    encounter_name: Immerseus
+    encounter_order: -3000
+  - encounter_difficulty: 0
+    encounter_id: 1598
+    encounter_index: 3
+    encounter_map: 1136
+    encounter_name: Fallen Protectors
+    encounter_order: -2000
+  - encounter_difficulty: 0
+    encounter_id: 1624
+    encounter_index: 14
+    encounter_map: 1136
+    encounter_name: Norushen
+    encounter_order: -1875
+  - encounter_difficulty: 0
+    encounter_id: 1604
+    encounter_index: 9
+    encounter_map: 1136
+    encounter_name: Sha of Pride
+    encounter_order: -1750
+  - encounter_difficulty: 0
+    encounter_id: 1622
+    encounter_index: 12
+    encounter_map: 1136
+    encounter_name: Galakras
+    encounter_order: -1625
+  - encounter_difficulty: 0
+    encounter_id: 1600
+    encounter_index: 5
+    encounter_map: 1136
+    encounter_name: Iron Juggernaut
+    encounter_order: -1500
+  - encounter_difficulty: 0
+    encounter_id: 1606
+    encounter_index: 11
+    encounter_map: 1136
+    encounter_name: Kor'kron Dark Shaman
+    encounter_order: -1375
+  - encounter_difficulty: 0
+    encounter_id: 1603
+    encounter_index: 8
+    encounter_map: 1136
+    encounter_name: General Nazgrim
+    encounter_order: -1250
+  - encounter_difficulty: 0
+    encounter_id: 1595
+    encounter_index: 2
+    encounter_map: 1136
+    encounter_name: Malkorok
+    encounter_order: 1000
+  - encounter_difficulty: 0
+    encounter_id: 1594
+    encounter_index: 1
+    encounter_map: 1136
+    encounter_name: Spoils of Pandaria
+    encounter_order: 1500
+  - encounter_difficulty: 0
+    encounter_id: 1599
+    encounter_index: 4
+    encounter_map: 1136
+    encounter_name: Thok the Bloodthirsty
+    encounter_order: 2000
+  - encounter_difficulty: 0
+    encounter_id: 1601
+    encounter_index: 6
+    encounter_map: 1136
+    encounter_name: Siegecrafter Blackfuse
+    encounter_order: 3000
+  - encounter_difficulty: 0
+    encounter_id: 1593
+    encounter_index: 0
+    encounter_map: 1136
+    encounter_name: Paragons of the Klaxxi
+    encounter_order: 3500
+  - encounter_difficulty: 0
+    encounter_id: 1623
+    encounter_index: 13
+    encounter_map: 1136
+    encounter_name: Garrosh Hellscream
+    encounter_order: 3750
+  - encounter_difficulty: 0
+    encounter_id: 1605
+    encounter_index: 10
+    encounter_map: 1136
+    encounter_name: Omar's Test Encounter (Cosmetic only) DNT
+    encounter_order: 4000
+  expansion: 4
+  id: 1136
+  name: Siege of Orgrimmar
+  type: 2

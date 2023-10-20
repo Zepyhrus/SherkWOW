@@ -1,0 +1,291 @@
+logs:
+- deahts_total: 0
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1204
+    encounter_index: 4
+    encounter_map: 720
+    encounter_name: Lord Rhyolith
+    encounter_sorting: -3000
+  encounter_id: 1204
+  fight_time: 42705
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 2
+  killtime: 1697693150
+  log_id: 1520259
+  map_id: 720
+  mapentry:
+    expansion: 3
+    id: 720
+    name: Firelands
+    type: 2
+  member_count: 9
+  pos: 1
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
+- deahts_total: 0
+  deaths_fight: 0
+  difficulty: 3
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1296
+    encounter_index: 4
+    encounter_map: 967
+    encounter_name: Hagara
+    encounter_sorting: -125
+  encounter_id: 1296
+  fight_time: 252421
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 2
+  killtime: 1697693056
+  log_id: 1520258
+  map_id: 967
+  mapentry:
+    expansion: 3
+    id: 967
+    name: Dragon Soul
+    type: 2
+  member_count: 5
+  pos: 2
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
+- deahts_total: 0
+  deaths_fight: 0
+  difficulty: 3
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1431
+    encounter_index: 1
+    encounter_map: 996
+    encounter_name: Sha of Fear
+    encounter_sorting: 1000
+  encounter_id: 1431
+  fight_time: 168983
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 2
+  killtime: 1697693035
+  log_id: 1520257
+  map_id: 996
+  mapentry:
+    expansion: 4
+    id: 996
+    name: Terrace of Endless Spring
+    type: 2
+  member_count: 9
+  pos: 3
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
+- deahts_total: 0
+  deaths_fight: 0
+  difficulty: 3
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1604
+    encounter_index: 9
+    encounter_map: 1136
+    encounter_name: Sha of Pride
+    encounter_sorting: -1750
+  encounter_id: 1604
+  fight_time: 265576
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 2
+  killtime: 1697692971
+  log_id: 1520256
+  map_id: 1136
+  mapentry:
+    expansion: 4
+    id: 1136
+    name: Siege of Orgrimmar
+    type: 2
+  member_count: 10
+  pos: 4
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
+- deahts_total: 1
+  deaths_fight: 1
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1206
+    encounter_index: 6
+    encounter_map: 720
+    encounter_name: Alysrazor
+    encounter_sorting: -1750
+  encounter_id: 1206
+  fight_time: 51114
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 3
+  killtime: 1697692941
+  log_id: 1520255
+  map_id: 720
+  mapentry:
+    expansion: 3
+    id: 720
+    name: Firelands
+    type: 2
+  member_count: 10
+  pos: 5
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
+- deahts_total: 1
+  deaths_fight: 1
+  difficulty: 3
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1506
+    encounter_index: 3
+    encounter_map: 996
+    encounter_name: Lei Shi
+    encounter_sorting: 750
+  encounter_id: 1506
+  fight_time: 188862
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 2
+  killtime: 1697692783
+  log_id: 1520253
+  map_id: 996
+  mapentry:
+    expansion: 4
+    id: 996
+    name: Terrace of Endless Spring
+    type: 2
+  member_count: 9
+  pos: 6
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
+- deahts_total: 0
+  deaths_fight: 0
+  difficulty: 5
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1197
+    encounter_index: 1
+    encounter_map: 720
+    encounter_name: Beth'tilac
+    encounter_sorting: -4000
+  encounter_id: 1197
+  fight_time: 63428
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 3
+  killtime: 1697692559
+  log_id: 1520252
+  map_id: 720
+  mapentry:
+    expansion: 3
+    id: 720
+    name: Firelands
+    type: 2
+  member_count: 10
+  pos: 7
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
+- deahts_total: 6
+  deaths_fight: 1
+  difficulty: 3
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1291
+    encounter_index: 0
+    encounter_map: 967
+    encounter_name: Spine of Deathwing
+    encounter_sorting: 0
+  encounter_id: 1291
+  fight_time: 402503
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 2
+  killtime: 1697692555
+  log_id: 1520251
+  map_id: 967
+  mapentry:
+    expansion: 3
+    id: 967
+    name: Dragon Soul
+    type: 2
+  member_count: 5
+  pos: 8
+  resurrects_fight: 0
+  rid: 2
+  wipes: 4
+- deahts_total: 1
+  deaths_fight: 1
+  difficulty: 3
+  encounter_data:
+    encounter_difficulty: 0
+    encounter_id: 1505
+    encounter_index: 2
+    encounter_map: 996
+    encounter_name: Tsulong
+    encounter_sorting: 500
+  encounter_id: 1505
+  fight_time: 217841
+  guilddata: {}
+  guildid: 0
+  guildrid: 2
+  item_count: 3
+  killtime: 1697692502
+  log_id: 1520250
+  map_id: 996
+  mapentry:
+    expansion: 4
+    id: 996
+    name: Terrace of Endless Spring
+    type: 2
+  member_count: 9
+  pos: 9
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
+- deahts_total: 0
+  deaths_fight: 0
+  difficulty: 3
+  encounter_data:
+    encounter_difficulty: 3
+    encounter_id: 652
+    encounter_index: 0
+    encounter_map: 532
+    encounter_name: Attumen the Huntsman
+    encounter_sorting: 0
+  encounter_id: 652
+  fight_time: 14004
+  guilddata: {}
+  guildid: 0
+  guildrid: 0
+  item_count: 3
+  killtime: 1697692436
+  log_id: 1520249
+  map_id: 532
+  mapentry:
+    expansion: 1
+    id: 532
+    name: Karazhan
+    type: 2
+  member_count: 1
+  pos: 10
+  resurrects_fight: 0
+  rid: 2
+  wipes: 0
