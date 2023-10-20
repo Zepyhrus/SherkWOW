@@ -1,0 +1,30 @@
+<div id="ModelViewer3">
+    <script src="charactermodel.js" type="text/javascript"></script>
+    <script src="swfobject.js" type="text/javascript"></script>
+    
+    <script type="text/javascript">
+    var stringslink = "modelConfig_strings.php";
+
+    var params = {
+        menu: "false",
+        scale: "noScale",
+        allowFullscreen: "false",
+        allowScriptAccess: "false",
+        bgcolor:"#E3C96A",
+        wmode:"transparent"
+    };
+    var attributes = { id:"ModelViewer3" };
+    var charName   = ''; // url decode if needed
+    var realm      = ''; // url decode if needed
+    var flashvars  = {
+        modelUrl: "model.php?r=" + encodeURIComponent(realm + "&n=" + charName), // must be url encoded
+        fileServer: "http://static.tauri.hu/images/models/",
+        strings:stringslink,
+    };
+
+    swfobject.embedSWF("ModelViewer3_.swf", "ModelViewer3", "100%", "100%", "10.0.0", "expressInstall.swf", flashvars, params, attributes);
+
+    // $(document).ready(function () { bindMouseActions() });
+    </script>
+    
+</div>
