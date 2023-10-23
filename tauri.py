@@ -59,7 +59,7 @@ def get_raid_rank_encounter():
     yaml.safe_dump(rep.json()['response'], f)
 
 
-def get_log_id(id):
+def get_log_by_id(id):
   req = {
     'secret': sk,
     'url'    : 'raid-log',
@@ -76,21 +76,30 @@ def get_log_id(id):
 
 
 def get_raid_guild(gname='DADDY SKY GUIDE', limit=100):
-  req = {
-    'secret': sk,
-    'url'    : 'raid-guild',
-    'params' : {
-      'r': realm,
-      'gn': gname,
-      'from': 0,
-      'limit': limit,
+  start = 0
+  rg_logs = []
+  while len(rg_logs) < limit:
+    req = {
+      'secret': sk,
+      'url'    : 'raid-guild',
+      'params' : {
+        'r': realm,
+        'gn': gname,
+        'from': start,
+        'limit': limit,
+      }
     }
-  }
 
-  rep = requests.post(url=url, json=req, verify=True)
-  print(rep)
+    rep = requests.post(url=url, json=req, verify=True)
+    print(rep)
 
-  return rep.json()['response']['logs']
+    _logs = rep.json()['response']['logs']
+    _valid = [_ for _ in _logs if _['difficulty'] in [5, 6] and _['encounter_id'] in enc_ids]
+    rg_logs += _valid
+    start += limit
+  
+  return rg_logs[:limit]
+
 
 if __name__ == '__main__':
   with open('cfg.s.yml', 'r') as f:
@@ -105,23 +114,21 @@ if __name__ == '__main__':
   # 5: 10H, 6: 25H
   # 5.4 SOO encounters: 
   enc_ids = [1602, 1598, 1624, 1604, 1622, 1600, 1606, 1603, 1595, 1594, 1599, 1601, 1593, 1623]
-
-  # with open('raid-guild.yml', 'r') as f:
-  #   rg_logs = yaml.safe_load(f)['logs']
-  rg_logs = get_raid_guild()
-  valid_logs = [_ for _ in rg_logs if _['difficulty'] in [5, 6] and _['encounter_id'] in enc_ids]
+  valid_logs = get_raid_guild()
 
   # print(len(valid_logs))
 
   logs = []
   for valid_log in tqdm(valid_logs):
-    log = get_log_id(valid_log['log_id'])
+    log = get_log_by_id(valid_log['log_id'])
     logs.append(log)
   
   for i, log in tqdm(enumerate(logs)):
     if not log: continue
 
     kt = datetime.fromtimestamp(log["killtime"])
+    _ft = log["fight_time"]/60000
+    ft = f'{int(_ft)} min {(_ft-int(_ft))*60:.2f} s'
     
     _classes =   cfg['Class']
     _specs = cfg['Specs']
@@ -145,22 +152,21 @@ if __name__ == '__main__':
     labels = [x+'-'+f'{y:.2f}' for x, y in zip(df['spec'], df['dps'])]
     ax.bar_label(hbars, labels=labels, color='white', padding=8)
     ax.set_xlim(0, 1.2*df['dps'].max())
-
-    ax.set_title(f'- {log["encounter_data"]["encounter_name"]}, {log["fight_time"]/60000:.2f}, {kt} -')
+    ax.set_title(f'- {log["encounter_data"]["encounter_name"]}, {ft}, {kt} -')
 
     if len(df) > 10:
       subfolder = 'H25'
     else:
       subfolder = 'H10'
     
-    if 'Tyman' in list(df['name']):
-      prex = 'Tyman_'
-    elif 'Deinss' in list(df['name']):
-      prex = 'Deinss_'
-    else:
-      prex = ''
+    # if 'Tyman' in list(df['name']):
+    #   prex = 'Tyman_'
+    # elif 'Deinss' in list(df['name']):
+    #   prex = 'Deinss_'
+    # else:
+    prex = ''
 
-    plt.savefig(f'recent\\{subfolder}\\{prex}{i}.png')
+    plt.savefig(f'pics\\{subfolder}_{prex}{i}.png')
     plt.close()
 
 
