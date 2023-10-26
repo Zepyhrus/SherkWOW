@@ -75,8 +75,8 @@ def get_log_by_id(id):
     return rep.json()['response']
 
 
-def get_raid_guild(gname='DADDY SKY GUIDE', limit=100):
-  assert limit < 1000, 'No more than 1000 logs allowed!'
+def get_raid_guild(gname='DADDY SKY GUIDE', limit=20):
+  assert limit <= 1000, 'No more than 1000 logs allowed!'
   rg_logs = []
   req = {
     'secret': sk,
@@ -93,15 +93,17 @@ def get_raid_guild(gname='DADDY SKY GUIDE', limit=100):
   _logs = rep.json()['response']['logs']
   
   for _log in _logs:
-    if _log['difficulty'] not in [5, 6]: continue
-
-    if _log['encounter_id'] not in enc_ids: continue
-
+    if _log['difficulty'] not in [5, 6]: continue # 非10人或者25人
+    if _log['encounter_id'] not in enc_ids: continue  # 非SOO
     if _log['log_id'] in set([_['log_id'] for _ in rg_logs]): continue  # 重复的LOG 
   
     rg_logs.append(_log)
+
+    if len(rg_logs) >= limit:
+      break
+  return rg_logs
   
-  return rg_logs[:limit]
+  
 
 
 if __name__ == '__main__':
