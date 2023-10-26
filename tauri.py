@@ -131,7 +131,7 @@ if __name__ == '__main__':
   for i, log in tqdm(enumerate(logs)):
     if not log: continue
 
-    kt = datetime.fromtimestamp(log["killtime"]).strftime("%Y/%m/%d %H-%M-%S")
+    kt = datetime.fromtimestamp(log["killtime"]).strftime("%Y/%m/%d %H:%M:%S")
     _ft = log["fight_time"]/60000
     ft = f'{int(_ft)} min {(_ft-int(_ft))*60:.2f} s'
     
