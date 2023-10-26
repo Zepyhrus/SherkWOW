@@ -76,27 +76,30 @@ def get_log_by_id(id):
 
 
 def get_raid_guild(gname='DADDY SKY GUIDE', limit=100):
-  start = 0
+  assert limit < 1000, 'No more than 1000 logs allowed!'
   rg_logs = []
-  while len(rg_logs) < limit:
-    req = {
-      'secret': sk,
-      'url'    : 'raid-guild',
-      'params' : {
-        'r': realm,
-        'gn': gname,
-        'from': start,
-        'limit': limit,
-      }
+  req = {
+    'secret': sk,
+    'url'    : 'raid-guild',
+    'params' : {
+      'r': realm,
+      'gn': gname,
+      'from': 0,
+      'limit': 1000,
     }
+  }
 
-    rep = requests.post(url=url, json=req, verify=True)
-    print(rep)
+  rep = requests.post(url=url, json=req, verify=True)
+  _logs = rep.json()['response']['logs']
+  
+  for _log in _logs:
+    if _log['difficulty'] not in [5, 6]: continue
 
-    _logs = rep.json()['response']['logs']
-    _valid = [_ for _ in _logs if _['difficulty'] in [5, 6] and _['encounter_id'] in enc_ids]
-    rg_logs += _valid
-    start += limit
+    if _log['encounter_id'] not in enc_ids: continue
+
+    if _log['log_id'] in set([_['log_id'] for _ in rg_logs]): continue  # 重复的LOG 
+  
+    rg_logs.append(_log)
   
   return rg_logs[:limit]
 
@@ -114,7 +117,7 @@ if __name__ == '__main__':
   # 5: 10H, 6: 25H
   # 5.4 SOO encounters: 
   enc_ids = [1602, 1598, 1624, 1604, 1622, 1600, 1606, 1603, 1595, 1594, 1599, 1601, 1593, 1623]
-  valid_logs = get_raid_guild()
+  valid_logs = get_raid_guild(limit=20)
 
   # print(len(valid_logs))
 
@@ -126,7 +129,7 @@ if __name__ == '__main__':
   for i, log in tqdm(enumerate(logs)):
     if not log: continue
 
-    kt = datetime.fromtimestamp(log["killtime"])
+    kt = datetime.fromtimestamp(log["killtime"]).strftime("%Y/%m/%d %H-%M-%S")
     _ft = log["fight_time"]/60000
     ft = f'{int(_ft)} min {(_ft-int(_ft))*60:.2f} s'
     
@@ -149,7 +152,7 @@ if __name__ == '__main__':
     hbars = ax.barh(y_pos, df['dps'], color=df['color'])
     ax.set_yticks(y_pos, labels=df['name'])
     ax.set_yticklabels(labels=df['name'], rotation=45)
-    labels = [x+'-'+f'{y:.2f}' for x, y in zip(df['spec'], df['dps'])]
+    labels = [str(z)+'/'+x+'-'+f'{y:.2f}' for x, y, z in zip(df['spec'], df['dps'], df['ilvl'])]
     ax.bar_label(hbars, labels=labels, color='white', padding=8)
     ax.set_xlim(0, 1.2*df['dps'].max())
     ax.set_title(f'- {log["encounter_data"]["encounter_name"]}, {ft}, {kt} -')
@@ -166,7 +169,7 @@ if __name__ == '__main__':
     # else:
     prex = ''
 
-    plt.savefig(f'pics\\{subfolder}_{prex}{i}.png')
+    plt.savefig(f'pics\\{i}_{subfolder}.png')
     plt.close()
 
 
